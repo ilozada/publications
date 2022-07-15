@@ -14,7 +14,7 @@ Table of Contents
 
 ## Supplementary Material for PhD thesis
 
-(a) List of all species used in this study \
-(b) List of all species used in this study \
+(a) List of all genome projects used in this study (excell file: .xlsx). [Download here]() \
+(b) Dataset of statistical descriptors of genome-wide features for 461 eukaryotic genomes (excell file: .xlsx). [Download here]() \
 (c) 
 
