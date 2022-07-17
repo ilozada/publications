@@ -22,11 +22,12 @@ Table of Contents
 
 Tree topologies for the 461 eukaryotic species used in this study
 
-(a) Reference tree topology (a supertree with manual curation based on literature): \
+(a) Reference tree topology (a supertree created by synthesizing phylogeny and taxonomic classification): \
 -- [reference_eukaryote_phylogeny.pdf (pdf file)](https://github.com/ilozada/publications/files/9126957/reference_eukaryote_phylogeny.pdf) \
 -- [reference_eukaryote_phylogeny.nex (nexus file)](https://github.com/ilozada/publications/files/9126964/reference_eukaryote_phylogeny_nexus.txt) \
--- [reference_eukaryote_phylogeny.nwk (newick file)](https://github.com/ilozada/publications/files/9126970/reference_eukaryote_phylogeny.newick.txt) \
+-- [reference_eukaryote_phylogeny.nwk (newick file)](https://github.com/ilozada/publications/files/9126970/reference_eukaryote_phylogeny.newick.txt)
 
-(b) 
+(b) NCBI taxonomy-based tree topology (that is forced to be a fully resolved bifurcating phylogeny): \
+-- 
  
 
