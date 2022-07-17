@@ -22,5 +22,7 @@ Table of Contents
 
 Tree topologies for the 461 eukaryotic species used in this study
 
-(a) Reference tree topology (a supertree with manual curation based on literature) 
-(b)
+(a) Reference tree topology (a supertree with manual curation based on literature):
+-- reference_eukaryote_phylogeny.pdf (pdf file). [Download here] (https://github.com/ilozada/publications/files/9126957/reference_eukaryote_phylogeny.pdf)
+-- reference_eukaryote_phylogeny.nex (nexus file). [Download here](https://github.com/ilozada/publications/files/9126964/reference_eukaryote_phylogeny_nexus.txt)
+
