@@ -17,8 +17,9 @@ Table of Contents
 (a) List of all genome projects used in this study (excell file). [Download here]() \
 (b) Dataset of statistical descriptors of genome-wide features for 461 eukaryotic genomes (excell file). [Download here]() \
 (c) 
-(d) The excess/deficit of the intron length distributions modulo 3 estimated (as suggested on Roy and Penny, 2007) for more than the 461 gene annotations included in this study (text file). [intron_3n_quality_501sps.txt](https://github.com/ilozada/publications/files/9127855/intron_3n_quality_501sps.txt)
-
+(d) Fraction of placeholders (Ns and Xs sequences) covering the total assembled genome (text file). [genome_nts-placeholders_composition.txt](https://github.com/ilozada/publications/files/9127990/genome_nts-placeholders_composition.txt) \
+(e) The excess/deficit of the intron length distributions modulo 3 estimated (as suggested on Roy and Penny, 2007) for more than the 461 gene annotations included in this study (text file). [intron_3n_quality_501sps.txt](https://github.com/ilozada/publications/files/9127855/intron_3n_quality_501sps.txt) \
+(f)
 
 (e) Tree topologies for the 461 eukaryotic species used in this study:
 
