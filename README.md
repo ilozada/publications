@@ -37,7 +37,11 @@ Table of Contents
 -- [ncbi-taxonomy_tree_polytomies_nexus.txt (nexus file)](https://github.com/ilozada/publications/files/9127078/ncbi-taxonomy_tree_polytomies_nexus.txt) \
 -- [ncbi-taxonomy_tree_polytomies_newick.txt (newick file)](https://github.com/ilozada/publications/files/9127079/ncbi-taxonomy_tree_polytomies_newick.txt)
 
+(4) Tree topology based on (PFAM) protein domain content (and corrected for protein-content biases derived from differences in genome size and lifestyles) \
+ -- [protein-domain_content_phylogeny.pdf (pdf file)](https://github.com/ilozada/publications/files/9127735/protein-domain_content_phylogeny.pdf) \
+ -- [protein-domain_content_phylogeny_nexus.txt (nexus file)](https://github.com/ilozada/publications/files/9127757/protein-domain_content_phylogeny_nexus.txt) \
+ -- [protein-domain_content_phylogeny_newick.txt (newick file)](https://github.com/ilozada/publications/files/9127759/protein-domain_content_phylogeny_newick.txt)
 
 
- 
+
 
