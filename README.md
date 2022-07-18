@@ -15,14 +15,15 @@ Table of Contents
 ## Supplementary Material for PhD thesis
 
 (a) List of all genome projects used in this study (excell file). [Download here]() \
-(b) Dataset of statistical descriptors of genome-wide features for 461 eukaryotic genomes (excell file). [Download here]() \
-(c) 
+(b) Dataset of statistical descriptors of genome-wide features for 461 eukaryotic genomes (excell file). [SMO_GenomeFeatures_descriptors_eukaryotes.xlsx](https://github.com/ilozada/publications/files/9132780/SMO_GenomeFeatures_descriptors_eukaryotes.xlsx)
+ \
+(c) Description of the genowe-wide features (variables) included in the file "SMO_GenomeFeatures_descriptors_eukaryotes.xlsx" (text file).
 (d) Fraction of placeholders (Ns and Xs sequences) covering the total assembled genome (text file): [genome_nts-placeholders_composition.txt](https://github.com/ilozada/publications/files/9127990/genome_nts-placeholders_composition.txt) \
 (e) The excess/deficit of the intron length distributions modulo 3 estimated (as suggested on Roy and Penny, 2007) for more than the 461 gene annotations included in this study (text file): [intron_3n_quality_501sps.txt](https://github.com/ilozada/publications/files/9127855/intron_3n_quality_501sps.txt) \
 (f) References for cellular definitions and phylogenetic relationships.
 
 
-(e) **Tree topologies for the 461 eukaryotic species used in this study:**
+(g) **Tree topologies for the 461 eukaryotic species used in this study:**
 
 (1) Reference tree topology (a supertree created by synthesizing phylogeny and taxonomic classification): \
 -- [reference_eukaryote_phylogeny.pdf (pdf file)](https://github.com/ilozada/publications/files/9126957/reference_eukaryote_phylogeny.pdf) \
