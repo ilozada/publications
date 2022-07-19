@@ -7,9 +7,9 @@ ___
 Table of Contents
 -----------------
 
-1. [Supplementary Material for PhD thesis](#pdhsm)
+1. [Supplementary Material for PhD thesis (*updating files*)](#pdhsm)
 2. [Supplementary Material by publication (*in preparation*)](#pubsm)
-3. [Useful in-house scripts](#scripts)
+3. [Useful in-house scripts (*updating files*)](#scripts)
 
 
 ## Supplementary Material for PhD thesis
