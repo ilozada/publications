@@ -17,7 +17,8 @@ Table of Contents
 (a) List of all genome projects used in this study (excell file). [Download here]() \
 (b) Dataset of statistical descriptors of genome-wide features for 461 eukaryotic genomes (excell file). [SMO_GenomeFeatures_descriptors_eukaryotes.xlsx](https://github.com/ilozada/publications/files/9132780/SMO_GenomeFeatures_descriptors_eukaryotes.xlsx)
  \
-(c) Description of the genowe-wide features (variables) included in the file "SMO_GenomeFeatures_descriptors_eukaryotes.xlsx" (text file). \
+(c) Description of the genowe-wide features (variables) included in the file "SMO_GenomeFeatures_descriptors_eukaryotes.xlsx" (text file). [description_variables_instudy.txt](https://github.com/ilozada/publications/files/9142262/description_variables_instudy.txt)
+ \
 (d) Fraction of placeholders (Ns and Xs sequences) covering the total assembled genome (text file): [genome_nts-placeholders_composition.txt](https://github.com/ilozada/publications/files/9127990/genome_nts-placeholders_composition.txt) \
 (e) The excess/deficit of the intron length distributions modulo 3 estimated (as suggested on Roy and Penny, 2007) for more than the 461 gene annotations included in this study (text file): [intron_3n_quality_501sps.txt](https://github.com/ilozada/publications/files/9127855/intron_3n_quality_501sps.txt) \
 (f) References for cellular definitions and phylogenetic relationships.
