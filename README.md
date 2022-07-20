@@ -36,8 +36,8 @@ Table of Contents
 (2) ceRNA literature-directed research and predicted target mimics (TMs) motifs that were eliminated with the `ceRNA motif pipeline` (pdf file). [SMO_TMs-research_FigureS1-S4.pdf](https://github.com/ilozada/publications/files/9150871/SMO_TMs-research_FigureS1-S4.pdf) \
 (3) Summary results of the predicted TMs motifs from the `ceRNA motif pipeline` (excell file).  \
 (4) Raw results from the mapping of TM motifs across transcriptomic data (compressed text files): \
-    (i) Results from the psRNATarget v1.0 program: [SuppData2_psRNATarget_TMmotifs.zip](https://github.com/ilozada/publications/files/9150977/SuppData2_psRNATarget_TMmotifs.zip) \
-    (ii) Results from the TAPIR v1.2 program: [SuppData3_TAPIR_TMmotifs.zip](https://github.com/ilozada/publications/files/9151034/SuppData3_TAPIR_TMmotifs.zip)
+    --- Results from the psRNATarget v1.0 program: [SuppData2_psRNATarget_TMmotifs.zip](https://github.com/ilozada/publications/files/9150977/SuppData2_psRNATarget_TMmotifs.zip) \
+    --- Results from the TAPIR v1.2 program: [SuppData3_TAPIR_TMmotifs.zip](https://github.com/ilozada/publications/files/9151034/SuppData3_TAPIR_TMmotifs.zip)
 
 
 **(c) Phylogenetically controlled linear regressions:** \
@@ -57,23 +57,23 @@ Table of Contents
 **(e) Tree topologies for the 461 eukaryotic species used in this study:**
 
 (1) Reference tree topology (a supertree created by synthesizing phylogeny and taxonomic classification): \
--- [reference_eukaryote_phylogeny.pdf (pdf file)](https://github.com/ilozada/publications/files/9126957/reference_eukaryote_phylogeny.pdf) \
--- [reference_eukaryote_phylogeny.nex (nexus file)](https://github.com/ilozada/publications/files/9126964/reference_eukaryote_phylogeny_nexus.txt) \
--- [reference_eukaryote_phylogeny.nwk (newick file)](https://github.com/ilozada/publications/files/9127051/reference_eukaryote_phylogeny_newick.txt)
+--- [reference_eukaryote_phylogeny.pdf (pdf file)](https://github.com/ilozada/publications/files/9126957/reference_eukaryote_phylogeny.pdf) \
+--- [reference_eukaryote_phylogeny.nex (nexus file)](https://github.com/ilozada/publications/files/9126964/reference_eukaryote_phylogeny_nexus.txt) \
+--- [reference_eukaryote_phylogeny.nwk (newick file)](https://github.com/ilozada/publications/files/9127051/reference_eukaryote_phylogeny_newick.txt)
 
 
 (2) NCBI taxonomy-based tree topology (that is forced to be a fully resolved bifurcating phylogeny): \
--- [ncbi-taxonomy_tree_fully-bifurcated.pdf (pdf file)](https://github.com/ilozada/publications/files/9127059/ncbi-taxonomy_tree_fully-bifurcated.pdf) \
--- [ncbi-taxonomy_tree_fully-bifurcated_nexus.txt (nexus file)](https://github.com/ilozada/publications/files/9127060/ncbi-taxonomy_tree_fully-bifurcated_nexus.txt) \
--- [ncbi-taxonomy_tree_fully-bifurcated_newick.txt (newick file)](https://github.com/ilozada/publications/files/9127061/ncbi-taxonomy_tree_fully-bifurcated_newick.txt)
+--- [ncbi-taxonomy_tree_fully-bifurcated.pdf (pdf file)](https://github.com/ilozada/publications/files/9127059/ncbi-taxonomy_tree_fully-bifurcated.pdf) \
+--- [ncbi-taxonomy_tree_fully-bifurcated_nexus.txt (nexus file)](https://github.com/ilozada/publications/files/9127060/ncbi-taxonomy_tree_fully-bifurcated_nexus.txt) \
+--- [ncbi-taxonomy_tree_fully-bifurcated_newick.txt (newick file)](https://github.com/ilozada/publications/files/9127061/ncbi-taxonomy_tree_fully-bifurcated_newick.txt)
 
 (3) NCBI taxonomy-based tree topology (that is allowed to incorporate hard and soft polytomies): \
--- [ncbi-taxonomy_tree_polytomies.pdf (pdf file)](https://github.com/ilozada/publications/files/9127077/ncbi-taxonomy_tree_polytomies.pdf) \
--- [ncbi-taxonomy_tree_polytomies_nexus.txt (nexus file)](https://github.com/ilozada/publications/files/9127078/ncbi-taxonomy_tree_polytomies_nexus.txt) \
--- [ncbi-taxonomy_tree_polytomies_newick.txt (newick file)](https://github.com/ilozada/publications/files/9127079/ncbi-taxonomy_tree_polytomies_newick.txt)
+--- [ncbi-taxonomy_tree_polytomies.pdf (pdf file)](https://github.com/ilozada/publications/files/9127077/ncbi-taxonomy_tree_polytomies.pdf) \
+--- [ncbi-taxonomy_tree_polytomies_nexus.txt (nexus file)](https://github.com/ilozada/publications/files/9127078/ncbi-taxonomy_tree_polytomies_nexus.txt) \
+--- [ncbi-taxonomy_tree_polytomies_newick.txt (newick file)](https://github.com/ilozada/publications/files/9127079/ncbi-taxonomy_tree_polytomies_newick.txt)
 
 (4) Tree topology based on (PFAM) protein domain content (and corrected for protein-content biases derived from differences in genome size and lifestyles) \
- -- [protein-domain_content_phylogeny.pdf (pdf file)](https://github.com/ilozada/publications/files/9127735/protein-domain_content_phylogeny.pdf) \
- -- [protein-domain_content_phylogeny_nexus.txt (nexus file)](https://github.com/ilozada/publications/files/9127757/protein-domain_content_phylogeny_nexus.txt) \
- -- [protein-domain_content_phylogeny_newick.txt (newick file)](https://github.com/ilozada/publications/files/9127759/protein-domain_content_phylogeny_newick.txt)
+ --- [protein-domain_content_phylogeny.pdf (pdf file)](https://github.com/ilozada/publications/files/9127735/protein-domain_content_phylogeny.pdf) \
+ --- [protein-domain_content_phylogeny_nexus.txt (nexus file)](https://github.com/ilozada/publications/files/9127757/protein-domain_content_phylogeny_nexus.txt) \
+ --- [protein-domain_content_phylogeny_newick.txt (newick file)](https://github.com/ilozada/publications/files/9127759/protein-domain_content_phylogeny_newick.txt)
 
