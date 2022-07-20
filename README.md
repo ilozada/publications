@@ -14,19 +14,40 @@ Table of Contents
 
 ## Supplementary Material for PhD thesis
 
-(a) List of all genome projects used in this study (excell file). [Download here]() \
-(b) Dataset of statistical descriptors of genome-wide features for 461 eukaryotic genomes (excell file). [SMO_GenomeFeatures_descriptors_eukaryotes.xlsx](https://github.com/ilozada/publications/files/9132780/SMO_GenomeFeatures_descriptors_eukaryotes.xlsx)
- \
-(c) Description of the genowe-wide features (variables) included in the file "SMO_GenomeFeatures_descriptors_eukaryotes.xlsx" (text file). [description_variables_instudy.txt](https://github.com/ilozada/publications/files/9142262/description_variables_instudy.txt)
- \
-(d) Summary statistics of selected genome-wide features from protein-coding genes for selected lineages (excell file). [SMO_GenomeFeatures_by_TaxaDatasets.xlsx](https://github.com/ilozada/publications/files/9142748/SMO_GenomeFeatures_by_TaxaDatasets.xlsx)
- \
-(e) Fraction of placeholders (Ns and Xs sequences) covering the total assembled genome (text file): [genome_nts-placeholders_composition.txt](https://github.com/ilozada/publications/files/9127990/genome_nts-placeholders_composition.txt) \
-(f) The excess/deficit of the intron length distributions modulo 3 estimated (as suggested on Roy and Penny, 2007) for more than the 461 gene annotations included in this study (text file): [intron_3n_quality_501sps.txt](https://github.com/ilozada/publications/files/9127855/intron_3n_quality_501sps.txt) \
-(g) References for cellular definitions and phylogenetic relationships.
+
+**(a) Datasets compilation for the 461 eukaryotic species used in this study:**
+(1) List of all genome projects used in this study (excell file). [Download here]() \
+(2) References for cellular definitions and phylogenetic relationships. [Download here]()
 
 
-(h) **Tree topologies for the 461 eukaryotic species used in this study:**
+**(b) Statistical descriptors of genome-wide features and other genome-based estimators for 461 eukaryotic species, as calculated with the `GenomeContent` program:**
+(1) Description of the genowe-wide features (variables) included in the file "SMO_GenomeFeatures_descriptors_eukaryotes.xlsx" (text file). [description_variables_instudy.txt](https://github.com/ilozada/publications/files/9142262/description_variables_instudy.txt)
+ \
+(2) Dataset of statistical descriptors of genome-wide features for 461 eukaryotic genomes (excell file). [SMO_GenomeFeatures_descriptors_eukaryotes.xlsx](https://github.com/ilozada/publications/files/9132780/SMO_GenomeFeatures_descriptors_eukaryotes.xlsx)
+ \
+(3) Summary statistics of selected genome-wide features from protein-coding genes for selected lineages (excell file). [SMO_GenomeFeatures_by_TaxaDatasets.xlsx](https://github.com/ilozada/publications/files/9142748/SMO_GenomeFeatures_by_TaxaDatasets.xlsx)
+ \
+(4) Coefficients of variation for genome-wide features across different taxa datasets (excell file). \
+(5) Fraction of placeholders (Ns and Xs sequences) covering the total assembled genome (text file): [genome_nts-placeholders_composition.txt](https://github.com/ilozada/publications/files/9127990/genome_nts-placeholders_composition.txt) \
+(6) The excess/deficit of the intron length distributions modulo 3 estimated (as suggested by Roy and Penny, 2007: PMID:17617639) for more than the 461 gene annotations included in this study (text file): [intron_3n_quality_501sps.txt](https://github.com/ilozada/publications/files/9127855/intron_3n_quality_501sps.txt) \
+(7) Permutation tests for the Jaccard index estimations to evaluate the repeat contribution to intron and exon sizes (excell file).
+
+
+**(c) Phylogenetically controlled linear regressions:**
+(1) Estimates of phylogenetic inertia with different tree topologies (excell file). \
+(2) Regressions with the Ordinary Least-Squares (OLS) model (excell file). \
+(3) Regressions with the Phylogenetic Generalized Least Squares (PGLS) model (excell file). \
+(4) Regressions with the Phylogenetically Independent Contrasts (PICs) model (excell file). \
+(5) Estimates of Log Bayes Factors with the PGLS and PIC models and different tree topologies (excell file).
+
+
+**(d) Principal Component Analyses (PCA) analyses for 7 intron-based features and 15 genome-based features, and multicellular complexity:**
+(1) Cronbach's test for 7 intron-based features and 15 genome-based features used to calculate the PCA analyses (excell file). \
+(2) Phylogenetic PCAs with phylogenetically independent contrasts for: (i) 7 intron-based features and 15 genome-based features, (ii) different tree topologies, and (iii) genome size estimations (excell file). \
+(3) Comparative PCAs for: (i) 7 intron-based features and 15 genome-based features, and (ii) genome size estimations (excell file).
+
+
+**(e) Tree topologies for the 461 eukaryotic species used in this study:**
 
 (1) Reference tree topology (a supertree created by synthesizing phylogeny and taxonomic classification): \
 -- [reference_eukaryote_phylogeny.pdf (pdf file)](https://github.com/ilozada/publications/files/9126957/reference_eukaryote_phylogeny.pdf) \
@@ -48,7 +69,4 @@ Table of Contents
  -- [protein-domain_content_phylogeny.pdf (pdf file)](https://github.com/ilozada/publications/files/9127735/protein-domain_content_phylogeny.pdf) \
  -- [protein-domain_content_phylogeny_nexus.txt (nexus file)](https://github.com/ilozada/publications/files/9127757/protein-domain_content_phylogeny_nexus.txt) \
  -- [protein-domain_content_phylogeny_newick.txt (newick file)](https://github.com/ilozada/publications/files/9127759/protein-domain_content_phylogeny_newick.txt)
-
-
-
 
