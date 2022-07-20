@@ -15,12 +15,12 @@ Table of Contents
 ## Supplementary Material for PhD thesis
 
 
-**(a) Datasets compilation for the 461 eukaryotic species used in this study:**
+**(a) Datasets compilation for the 461 eukaryotic species used in this study:** \
 (1) List of all genome projects used in this study (excell file). [Download here]() \
 (2) References for cellular definitions and phylogenetic relationships. [Download here]()
 
 
-**(b) Statistical descriptors of genome-wide features and other genome-based estimators for 461 eukaryotic species, as calculated with the `GenomeContent` program:**
+**(b) Statistical descriptors of genome-wide features and other genome-based estimators for 461 eukaryotic species, as calculated with the `GenomeContent` program:** \
 (1) Description of the genowe-wide features (variables) included in the file "SMO_GenomeFeatures_descriptors_eukaryotes.xlsx" (text file). [description_variables_instudy.txt](https://github.com/ilozada/publications/files/9142262/description_variables_instudy.txt)
  \
 (2) Dataset of statistical descriptors of genome-wide features for 461 eukaryotic genomes (excell file). [SMO_GenomeFeatures_descriptors_eukaryotes.xlsx](https://github.com/ilozada/publications/files/9132780/SMO_GenomeFeatures_descriptors_eukaryotes.xlsx)
@@ -33,7 +33,7 @@ Table of Contents
 (7) Permutation tests for the Jaccard index estimations to evaluate the repeat contribution to intron and exon sizes (excell file).
 
 
-**(c) Phylogenetically controlled linear regressions:**
+**(c) Phylogenetically controlled linear regressions:** \
 (1) Estimates of phylogenetic inertia with different tree topologies (excell file). \
 (2) Regressions with the Ordinary Least-Squares (OLS) model (excell file). \
 (3) Regressions with the Phylogenetic Generalized Least Squares (PGLS) model (excell file). \
@@ -41,7 +41,7 @@ Table of Contents
 (5) Estimates of Log Bayes Factors with the PGLS and PIC models and different tree topologies (excell file).
 
 
-**(d) Principal Component Analyses (PCA) analyses for 7 intron-based features and 15 genome-based features, and multicellular complexity:**
+**(d) Principal Component Analyses (PCA) analyses for 7 intron-based features and 15 genome-based features, and multicellular complexity:** \
 (1) Cronbach's test for 7 intron-based features and 15 genome-based features used to calculate the PCA analyses (excell file). \
 (2) Phylogenetic PCAs with phylogenetically independent contrasts for: (i) 7 intron-based features and 15 genome-based features, (ii) different tree topologies, and (iii) genome size estimations (excell file). \
 (3) Comparative PCAs for: (i) 7 intron-based features and 15 genome-based features, and (ii) genome size estimations (excell file).
