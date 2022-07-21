@@ -40,7 +40,7 @@ Table of Contents
     --- Results from the TAPIR v1.2 program: [SuppData3_TAPIR_TMmotifs.zip](https://github.com/ilozada/publications/files/9151034/SuppData3_TAPIR_TMmotifs.zip)
 
 
-**(c) Phylogenetically controlled linear regressions:** \
+**(d) Phylogenetically controlled linear regressions:** \
 (1) Estimates of phylogenetic inertia with different tree topologies (excell file). \
 (2) Regressions with the Ordinary Least-Squares (OLS) model (excell file). \
 (3) Regressions with the Phylogenetic Generalized Least Squares (PGLS) model (excell file). \
@@ -48,13 +48,13 @@ Table of Contents
 (5) Estimates of Log Bayes Factors with the PGLS and PIC models and different tree topologies (excell file).
 
 
-**(d) Principal Component Analyses (PCA) analyses for 7 intron-based features and 15 genome-based features, and multicellular complexity:** \
+**(e) Principal Component Analyses (PCA) analyses for 7 intron-based features and 15 genome-based features, and multicellular complexity:** \
 (1) Cronbach's test for 7 intron-based features and 15 genome-based features used to calculate the PCA analyses (excell file). \
 (2) Phylogenetic PCAs with phylogenetically independent contrasts for: (i) 7 intron-based features and 15 genome-based features, (ii) different tree topologies, and (iii) genome size estimations (excell file). \
 (3) Comparative PCAs for: (i) 7 intron-based features and 15 genome-based features, and (ii) genome size estimations (excell file).
 
 
-**(e) Tree topologies for the 461 eukaryotic species used in this study:**
+**(f) Tree topologies for the 461 eukaryotic species used in this study:**
 
 (1) Reference tree topology (a supertree created by synthesizing phylogeny and taxonomic classification): \
 --- [reference_eukaryote_phylogeny.pdf (pdf file)](https://github.com/ilozada/publications/files/9126957/reference_eukaryote_phylogeny.pdf) \
