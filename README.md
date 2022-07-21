@@ -32,7 +32,7 @@ Table of Contents
 
 
 **(c) Data and additional results from the `ceRNA motif pipeline`:** \
-(1) Summary of the 40 non-redundant miRNA:lincRNAs binding sequences analyzed with our ceRNA motif pipeline.  \
+(1) Summary of the genome datasets and of the 40 non-redundant miRNA:lincRNAs binding sequences analyzed with our ceRNA motif pipeline (excell file). [SMO_knownTMs_Genomes_Datasets.xlsx](https://github.com/ilozada/publications/files/9155391/SMO_knownTMs_Genomes_Datasets.xlsx) \
 (2) ceRNA literature-directed research and predicted target mimics (TMs) motifs that were eliminated with the `ceRNA motif pipeline` (pdf file). [SMO_TMs-research_FigureS1-S4.pdf](https://github.com/ilozada/publications/files/9150871/SMO_TMs-research_FigureS1-S4.pdf) \
 (3) Summary results of the predicted TMs motifs from the `ceRNA motif pipeline` (excell file).  \
 (4) Raw results from the mapping of TM motifs across transcriptomic data (compressed text files): \
