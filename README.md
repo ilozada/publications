@@ -50,7 +50,7 @@ Table of Contents
 
 **(e) Principal Component Analyses (PCA) analyses for 7 intron-based features and 15 genome-based features, and multicellular complexity:** \
 (1) Cronbach's test for 7 intron-based features and 15 genome-based features used to calculate the PCA analyses (excell file). \
-(2) Phylogenetic PCAs with phylogenetically independent contrasts for: (i) 7 intron-based features and 15 genome-based features, (ii) different tree topologies, and (iii) genome size estimations (excell file). \
+(2) Phylogenetic PCAs with phylogenetically independent contrasts for: (i) 7 intron-based features and 15 genome-based features, (ii) different tree topologies, and (iii) genome size estimations (excell file). [SMO_PhyloPCAs.xlsx](https://github.com/ilozada/publications/files/9173969/SMO_PhyloPCAs.xlsx) \
 (3) Comparative PCAs for: (i) 7 intron-based features and 15 genome-based features, and (ii) genome size estimations (excell file).
 
 
