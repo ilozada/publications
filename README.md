@@ -22,7 +22,7 @@ Table of Contents
 
 **(b) Statistical descriptors of genome-wide features and other genome-based estimators for 461 eukaryotic species, as calculated with the `GenomeContent` program:** \
 (1) Description of the genowe-wide features (variables) included in the file "SMO_GenomeFeatures_descriptors_eukaryotes.xlsx" (text file). [description_variables_instudy.txt](https://github.com/ilozada/publications/files/9142262/description_variables_instudy.txt) \
-(2) Dataset of statistical descriptors of genome-wide features for 461 eukaryotic genomes (excell file). [SMO_GenomeFeatures_descriptors_eukaryotes.xlsx](https://github.com/ilozada/publications/files/9132780/SMO_GenomeFeatures_descriptors_eukaryotes.xlsx) \
+(2) Dataset of statistical descriptors of genome-wide features for 461 eukaryotic genomes (excell file). \
 (3) Summary statistics of selected genome-wide features from protein-coding genes for selected lineages (excell file). [SMO_GenomeFeatures_by_TaxaDatasets.xlsx](https://github.com/ilozada/publications/files/9142748/SMO_GenomeFeatures_by_TaxaDatasets.xlsx) \
 (4) Coefficients of variation for genome-wide features across different taxa datasets (excell file).  \
 (5) Fraction of placeholders (Ns and Xs sequences) covering the total assembled genome (text file): [genome_nts-placeholders_composition.txt](https://github.com/ilozada/publications/files/9127990/genome_nts-placeholders_composition.txt) \
