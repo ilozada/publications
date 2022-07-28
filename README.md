@@ -18,6 +18,8 @@ Table of Contents
 **(a) Datasets compilation for the 461 eukaryotic species used in this study:** \
 (1) List of all genome projects used in this study (excell file). [Download here]() \
 (2) References for cellular definitions and phylogenetic relationships (excell file). [Download here]()
+(3) Overview of the sequence features annotated acrosss 461 eukaryotic genome projects, as calculated by `GenomeContent` (excell file). [Download here]()
+(4) Benchmarking of `GenomeContent` and `AGAT` programs with four eukaryotic genomes (excell file). [Download here]()
 
 
 **(b) Statistical descriptors of genome-wide features and other genome-based estimators for 461 eukaryotic species, as calculated with the `GenomeContent` program:** \
@@ -27,7 +29,7 @@ Table of Contents
 (4) Coefficients of variation for genome-wide features across different taxa datasets (excell file).  \
 (5) Fraction of placeholders (Ns and Xs sequences) covering the total assembled genome (text file): [genome_nts-placeholders_composition.txt](https://github.com/ilozada/publications/files/9127990/genome_nts-placeholders_composition.txt) \
 (6) The excess/deficit of the intron length distributions modulo 3 estimated (as suggested by Roy and Penny, 2007: PMID:17617639) for more than the 461 gene annotations included in this study (text file): [intron_3n_quality_501sps.txt](https://github.com/ilozada/publications/files/9127855/intron_3n_quality_501sps.txt) \
-(7) Figure showing the results of (5) and (6) analyses (pdf file). [SMO_quality_genomes_annotations.pdf](https://github.com/ilozada/publications/files/9150301/SMO_quality_genomes_annotations.pdf) \
+(7) Figures showing the results of (5) and (6) analyses (pdf file). [SMO_quality_genomes_annotations.pdf](https://github.com/ilozada/publications/files/9150301/SMO_quality_genomes_annotations.pdf) \
 (8) Permutation tests for the Jaccard index estimations to evaluate the repeat contribution to intron and exon sizes (excell file).
 
 
