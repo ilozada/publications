@@ -18,7 +18,7 @@ Table of Contents
 **(a) Datasets compilation for the 461 eukaryotic species used in this study:** \
 (1) List of all genome projects used in this study (excell file). [Download here]() \
 (2) References for cellular definitions and phylogenetic relationships (excell file). [Download here]() \
-(3) Overview of the sequence_features (based on the Sequence Ontology project:) that are annotated acrosss 461 eukaryotic genome projects, as calculated by `GenomeContent` (excell file). [Download here]() \
+(3) Overview of the sequence_features (based on the Sequence Ontology project: https://github.com/The-Sequence-Ontology/SO-Ontologies) from the gene annotation files (GTF*/GFF*) of 461 eukaryotic genome projects, as calculated by `GenomeContent` (excell file). [Download here]() \
 (4) Benchmarking of `GenomeContent` and `AGAT` programs with four eukaryotic genomes (excell file). [Download here]()
 
 
