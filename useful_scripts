@@ -1,0 +1,46 @@
+
+## Useful in-house scripts (*updating files*)
+
+- **Parallel computing: example of job submission to a Sun Grid Engine scheduler** \
+To run a job to a cluster controlled by the Sun Grid Engine scheduler, a shell script has to be used. Here is an example to run the `GenometriCorr` package for 134 genomes (listed on the file: script_ARRAY_JOB.genometricorr.metazoa.txt) on multiple CPUs for a long time:
+
+```terminal
+#!/bin/sh
+
+#$ -S /bin/bash
+#$ -N geo_metaz
+#$ -cwd
+#$ -q normal.q
+#$ -t 1-134
+#$ -e /scr/k70/ilozada/qsub_scripts/repeats/tmp/error.$JOB_ID
+#$ -o /scr/k70/ilozada/qsub_scripts/repeats/tmp/salida.$JOB_ID
+#$ -v PATH=/homes/bierdepot/ilozada/programs2/lib64/R/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:$PATH
+
+SEEDFILE=/scr/k70/ilozada/qsub_scripts/repeats/genometricorr/script_ARRAY_JOB.genometricorr.metazoa.txt
+SEED=$(cat $SEEDFILE | head -n $SGE_TASK_ID | tail -n 1)
+$SEED
+```
+
+
+- **Parallel computing: example of job submission to a Slurm workload manager** \
+To run a job to a cluster controlled by the Slurm workload manager, a batch script has to be used. Here is an example to run the `hmmscan` program for 59 genomes (listed on the file: script_ARRAY_JOB.metazoa.new2020.pfams32.txt) on multiple CPUs for a long time:
+
+```terminal
+#!/bin/bash
+
+#SBATCH --account=ilozada
+#SBATCH --partition=main
+#SBATCH --cpus-per-task=1
+#SBATCH --threads-per-core=2
+#SBATCH --job-name=pfamMetz
+#SBATCH --mem=4gb
+#SBATCH --time=2-00:00
+#SBATCH --array=1-59%59
+#SBATCH --ntasks=1
+#SBATCH --error=pfammetazoa_%j.stderr-%A_%a.log
+#SBATCH --output=pfammetazoa_%j.stdout-%A_%a.log
+
+SEEDFILE=/scr/k70/ilozada/qsub_scripts/pfam/script_ARRAY_JOB.metazoa.new2020.pfams32.txt
+SEED=$(cat $SEEDFILE | head -n $SLURM_ARRAY_TASK_ID | tail -n 1)
+$SEED
+```
