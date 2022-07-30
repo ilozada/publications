@@ -83,13 +83,15 @@ Table of Contents
  --- [protein-domain_content_phylogeny_newick.txt (newick file)](https://github.com/ilozada/publications/files/9127759/protein-domain_content_phylogeny_newick.txt)
 
 
+
 ## Useful in-house scripts (*updating files*)
 
-- **Example of job submission to a Grid Engine scheduler** \
-*To run a job to a cluster controlled by a Grid Engine scheduler, a shell script has to be used. Here is an example to run the `GenometriCorr` package for 134 genomes (listed on the file: script_ARRAY_JOB.genometricorr.metazoa.txt) on multiple CPUs for a long time:*
+- **Parallel computing: example of job submission to a Sun Grid Engine scheduler** \
+To run a job to a cluster controlled by the Sun Grid Engine scheduler, a shell script has to be used. Here is an example to run the `GenometriCorr` package for 134 genomes (listed on the file: script_ARRAY_JOB.genometricorr.metazoa.txt) on multiple CPUs for a long time:
 
 ```terminal
 #!/bin/sh
+
 #$ -S /bin/bash
 #$ -N geo_metaz
 #$ -cwd
@@ -104,3 +106,26 @@ SEED=$(cat $SEEDFILE | head -n $SGE_TASK_ID | tail -n 1)
 $SEED
 ```
 
+
+- **Parallel computing: example of job submission to a Slurm workload manager** \
+To run a job to a cluster controlled by the Slurm workload manager, a batch script has to be used. Here is an example to run the `hmmscan` program for 59 genomes (listed on the file: script_ARRAY_JOB.metazoa.new2020.pfams32.txt) on multiple CPUs for a long time:
+
+```terminal
+#!/bin/bash
+
+#SBATCH --account=ilozada
+#SBATCH --partition=main
+#SBATCH --cpus-per-task=1
+#SBATCH --threads-per-core=2
+#SBATCH --job-name=pfamMetz
+#SBATCH --mem=4gb
+#SBATCH --time=2-00:00
+#SBATCH --array=1-59%59
+#SBATCH --ntasks=1
+#SBATCH --error=pfammetazoa_%j.stderr-%A_%a.log
+#SBATCH --output=pfammetazoa_%j.stdout-%A_%a.log
+
+SEEDFILE=/scr/k70/ilozada/qsub_scripts/pfam/script_ARRAY_JOB.metazoa.new2020.pfams32.txt
+SEED=$(cat $SEEDFILE | head -n $SLURM_ARRAY_TASK_ID | tail -n 1)
+$SEED
+```
