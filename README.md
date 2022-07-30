@@ -43,12 +43,16 @@ Table of Contents
 
 
 **(d) Phylogenetically controlled linear regressions:** \
-(1) Estimates of phylogenetic inertia with different tree topologies (excell file). \
-(2) Regressions with the Ordinary Least-Squares (OLS) model (excell file). \
-(3) Regressions with the Phylogenetic Generalized Least Squares (PGLS) model (excell file). \
-(4) Regressions with the Phylogenetically Independent Contrasts (PICs) model (excell file). \
-(5) Estimates of Log Bayes Factors with the PGLS and PIC models and different tree topologies (excell file).
-
+(1) Estimates of phylogenetic inertia with different tree topologies at the broadest phylogenetic scale (461 species) (excell file). \
+(2) Regressions with the Ordinary Least-Squares (OLS) model at the broadest phylogenetic scale (461 species) (excell file). \
+(3) Regressions with the Phylogenetic Generalized Least Squares (PGLS) model at the broadest phylogenetic scale (461 species), with different tree topologies and genome size estimations (excell file). \
+(4) Regressions with the Phylogenetically Independent Contrasts (PICs) model at the broadest phylogenetic scale (461 species), with different tree topologies and genome size estimations (excell file). \
+(5) Estimates of Log Bayes Factors with the PGLS and PIC models and different tree topologies at the broadest phylogenetic scale (461 species) (excell file). \
+(6) Regressions with the Phylogenetic Generalized Least Squares (PGLS) model at the local phylogenetic scale (31 different datasets) (excell file): \
+    --- Reference supertree topology: \
+    --- NCBI taxonomy-based tree topology (fully bifurcated) \
+    --- NCBI taxonomy-based tree topology (with hard and soft polytomies): \
+    --- Tree topology based on protein FPAM-domain content:
 
 **(e) Principal Component Analyses (PCA) analyses for 7 intron-based features and 15 genome-based features, and multicellular complexity:** \
 (1) Cronbach's test for 7 intron-based features and 15 genome-based features used to calculate the PCA analyses (excell file). [SMO_CronbrachTest_PCAs.xlsx](https://github.com/ilozada/publications/files/9176642/SMO_CronbrachTest_PCAs.xlsx) \
