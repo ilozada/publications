@@ -12,7 +12,7 @@ II. [Useful in-house scripts (*updating files*)](#scripts) \
 III. [Supplementary Material by publication (*in preparation*)](#pubsm)
 
 
-## Supplementary Material for PhD thesis
+## Supplementary Material for PhD thesis (*updating files*)
 
 
 **(a) Datasets compilation for the 461 eukaryotic species used in this study:** \
@@ -83,7 +83,7 @@ III. [Supplementary Material by publication (*in preparation*)](#pubsm)
  --- [protein-domain_content_phylogeny_newick.txt (newick file)](https://github.com/ilozada/publications/files/9127759/protein-domain_content_phylogeny_newick.txt)
 
 
-## Useful in-house scripts
+## Useful in-house scripts (*updating files*)
 
 - **Example of job submission to a Grid Engine scheduler** \
 *To run a job to a cluster controlled by a Grid Engine scheduler, a shell script has to be used. Here is an example to run the `GenometriCorr` package for 134 genomes (listed on the file: script_ARRAY_JOB.genometricorr.metazoa.txt) on multiple CPUs for a long time:*
