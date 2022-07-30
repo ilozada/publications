@@ -7,9 +7,9 @@ ___
 Table of Contents
 -----------------
 
-1. [Supplementary Material for PhD thesis (*updating files*)](#pdhsm)
-2. [Supplementary Material by publication (*in preparation*)](#pubsm)
-3. [Useful in-house scripts (*updating files*)](#scripts)
+I. [Supplementary Material for PhD thesis (*updating files*)](#pdhsm)
+II. [Useful in-house scripts (*updating files*)](#scripts)
+III. [Supplementary Material by publication (*in preparation*)](#pubsm)
 
 
 ## Supplementary Material for PhD thesis
@@ -81,4 +81,26 @@ Table of Contents
  --- [protein-domain_content_phylogeny.pdf (pdf file)](https://github.com/ilozada/publications/files/9127735/protein-domain_content_phylogeny.pdf) \
  --- [protein-domain_content_phylogeny_nexus.txt (nexus file)](https://github.com/ilozada/publications/files/9127757/protein-domain_content_phylogeny_nexus.txt) \
  --- [protein-domain_content_phylogeny_newick.txt (newick file)](https://github.com/ilozada/publications/files/9127759/protein-domain_content_phylogeny_newick.txt)
+
+
+## Useful in-house scripts
+
+- **Example of job submission to a Grid Engine scheduler** \
+*To run a job to a cluster controlled by a Grid Engine scheduler, a shell script has to be used. Here is an example to run the `GenometriCorr` package for 134 genomes (listed on the file: script_ARRAY_JOB.genometricorr.metazoa.txt) on multiple CPUs for a long time:*
+
+```terminal
+#!/bin/sh
+#$ -S /bin/bash
+#$ -N geo_metaz
+#$ -cwd
+#$ -q normal.q
+#$ -t 1-134
+#$ -e /scr/k70/ilozada/qsub_scripts/repeats/tmp/error.$JOB_ID
+#$ -o /scr/k70/ilozada/qsub_scripts/repeats/tmp/salida.$JOB_ID
+#$ -v PATH=/homes/bierdepot/ilozada/programs2/lib64/R/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:$PATH
+
+SEEDFILE=/scr/k70/ilozada/qsub_scripts/repeats/genometricorr/script_ARRAY_JOB.genometricorr.metazoa.txt
+SEED=$(cat $SEEDFILE | head -n $SGE_TASK_ID | tail -n 1)
+$SEED
+```
 
