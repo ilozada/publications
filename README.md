@@ -19,7 +19,7 @@ Table of Contents
 (1) List of all genome projects used in this study (excell file). [Download here]() \
 (2) References for cellular definitions and phylogenetic relationships (excell file). [Download here]() \
 (3) Overview of the sequence_features (based on the Sequence Ontology project: https://github.com/The-Sequence-Ontology/SO-Ontologies) from the gene annotation files (GTF*/GFF*) of 461 eukaryotic genome projects, as calculated by `GenomeContent` (excell file). [Download here]() \
-(4) Benchmarking of `GenomeContent` and `AGAT` programs with four eukaryotic genomes (excell file). [Download here]()
+(4) Benchmarking of `GenomeContent` and `AGAT` programs with four eukaryotic genomes (excell file). [SMO_Benchmark_GenomeContent.xlsx](https://github.com/ilozada/publications/files/9229572/SMO_Benchmark_GenomeContent.xlsx)
 
 
 **(b) Statistical descriptors of genome-wide features and other genome-based estimators for 461 eukaryotic species, as calculated with the `GenomeContent` program:** \
@@ -50,7 +50,7 @@ Table of Contents
 (5) Estimates of Log Bayes Factors with the PGLS and PIC models and different tree topologies at the broadest phylogenetic scale (461 species) (excell file). \
 (6) Regressions with the PGLS model at the local phylogenetic scale (31 different datasets) (text files): \
     --- Reference supertree topology: \
-    --- NCBI taxonomy-based tree topology (fully bifurcated) \
+    --- NCBI taxonomy-based tree topology (fully bifurcated): \
     --- NCBI taxonomy-based tree topology (with hard and soft polytomies): \
     --- Tree topology based on protein FPAM-domain content:
 
