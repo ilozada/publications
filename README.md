@@ -127,7 +127,12 @@ To run a job to a cluster controlled by the Sun Grid Engine scheduler, a shell s
 
 SEEDFILE=/scr/k70/ilozada/qsub_scripts/repeats/genometricorr/script_ARRAY_JOB.genometricorr.metazoa.txt
 SEED=$(cat $SEEDFILE | head -n $SGE_TASK_ID | tail -n 1)
+
+starttime=`date +"%s"`
 $SEED
+endtime=`date +"%s"`
+duration=$((endtime - starttime))
+
 
 # Useful QSUB commands:
 #	- qsub    : submit a batch job to the specified queue:   qsub -q queue_name job_script
@@ -160,7 +165,12 @@ To run a job to a cluster controlled by the Slurm workload manager, a batch scri
 
 SEEDFILE=/scr/k70/ilozada/qsub_scripts/pfam/script_ARRAY_JOB.metazoa.new2020.pfams32.txt
 SEED=$(cat $SEEDFILE | head -n $SLURM_ARRAY_TASK_ID | tail -n 1)
+
+starttime=`date +"%s"`
 $SEED
+endtime=`date +"%s"`
+duration=$((endtime - starttime))
+
 
 # Useful SLURM commands:
 #	- sbatch  : submit a job in slurm. Syntaxis:   sbatch mySLURM_script.sbatch [MAIN]
