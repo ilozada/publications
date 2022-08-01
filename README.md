@@ -94,17 +94,19 @@ I decided to share the following scripts (in different programming languages) fo
 
 
 - **Downloading files with wget** \
-The tools `wget` or `curl` can be used to download files from a particular database by using the shell interface. Some command-line examples with `wget` are:
+The tools `wget` or `curl` can be used to download files from a particular database as an 'anonymous user' by using the shell interface. Please be aware of the total load (e.g. megabytes) that you are going to download and that some databases might have extra permission restrictions. Some command-line examples with `wget` are:
 
 ```terminal
-# For one single file:
+# For one or particular files:
 $ wget --retr-symlinks -m --no-parent -T 30 ftp://ftp.ncbi.nih.gov/refseq/release/complete/single.file.txt
+$ wget --retr-symlinks -m --no-parent -T 30 ftp://ftp.ncbi.nih.gov/refseq/release/complete/particular.files.*.gz
 
 # For several files within a directory:
 $ wget --retr-symlinks -m --no-parent -T 30 ftp://ftp.ncbi.nih.gov/refseq/release/complete/genomeX/
 
 # For several links using -i option and giving a text file containing file URLs. 
 $ wget -i download-file-list.txt
+
 ```
 
 
