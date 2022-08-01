@@ -109,9 +109,9 @@ SEEDFILE=/scr/k70/ilozada/qsub_scripts/repeats/genometricorr/script_ARRAY_JOB.ge
 SEED=$(cat $SEEDFILE | head -n $SGE_TASK_ID | tail -n 1)
 $SEED
 
-# Useful SLURM commands:
+# Useful QSUB commands:
 #	- qsub    : submit a batch job to the specified queue:   qsub -q queue_name job_script
-#   - qstat   : list jobs & list jobs for users:             qstat -u username
+#	- qstat   : list jobs & list jobs for users:             qstat -u username
 #	- qdel    : delete (cancel) a job:                       qdel jobID 
 #	            cancel multiple jobs:                        qdel jobID1, jobID2, jobID3 ...
 #	- qhold   : hold a job:                                  qhold jobID
@@ -144,7 +144,7 @@ $SEED
 
 # Useful SLURM commands:
 #	- sbatch  : submit a job in slurm. Syntaxis:   sbatch mySLURM_script.sbatch [MAIN]
-#   - squeue  : list jobs & list jobs for users:   squeue --user=ilozada        [MAIN]
+#	- squeue  : list jobs & list jobs for users:   squeue --user=ilozada        [MAIN]
 #	- scancel : cancel a job. Syntaxis:            scancel your_jobID           [MAIN]
 #	            cancel multiple jobs:              scancel jobID1, jobID2, jobID3 ...
 #	- sstat   : shows job status. Syntaxis:        sstat --jobs=jobID
