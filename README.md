@@ -134,15 +134,14 @@ SEED=$(cat $SEEDFILE | head -n $SLURM_ARRAY_TASK_ID | tail -n 1)
 $SEED
 
 # Useful SLURM commands:
-#	- sbatch  : submit a job in slurm. Syntaxis:	sbatch mySLURM_script.sbatch [MAIN]
-# 	- squeue  : list jobs & list jobs for users:	squeue --user=ilozada        [MAIN]
-#	- scancel : cancel a job. Syntaxis:		        scancel your_jobID           [MAIN]
-#		        cancel multiple jobs:   		    scancel jobID1, jobID2, jobID3 ...
-#	- sstat   : shows job status. Syntaxis:		sstat --jobs=jobID
-#	- sacct   : shows past jobs.  Syntaxis:		sacct --jobs=jobID
+#	- sbatch  : submit a job in slurm. Syntaxis:   sbatch mySLURM_script.sbatch [MAIN]
+# 	- squeue  : list jobs & list jobs for users:   squeue --user=ilozada        [MAIN]
+#	- scancel : cancel a job. Syntaxis:            scancel your_jobID           [MAIN]
+#	            cancel multiple jobs:              scancel jobID1, jobID2, jobID3 ...
+#	- sstat   : shows job status. Syntaxis:        sstat --jobs=jobID
+#	- sacct   : shows past jobs.  Syntaxis:        sacct --jobs=jobID
 #	- scontrol: control jobs for suspend, hold or pulling information on jobs. 
 #	            Syntaxis:   scontrol [suspend,hold,release,resume,show] jobID
-#
 # ---------------------------------------------------------------------------------------------- 
 
 ```
