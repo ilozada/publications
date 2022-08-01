@@ -111,7 +111,7 @@ $ wget -i download-file-list.txt
 
 
 - **Parallel computing: example of job submission to a Sun Grid Engine scheduler** \
-To run a job to a cluster controlled by the Sun Grid Engine scheduler, a shell script has to be used. Here is an example to run the `GenometriCorr` package for 134 genomes (listed on the file: script_ARRAY_JOB.genometricorr.metazoa.txt) on multiple CPUs for a long time:
+To run a job to a cluster controlled by the Sun Grid Engine scheduler, a shell script has to be used. Here is an example to run the `GenometriCorr` package for 500 genomes (listed on the file: script_ARRAY_JOB.genometricorr.metazoa.txt) on multiple CPUs for a long time:
 
 ```terminal
 #!/bin/sh
@@ -120,7 +120,7 @@ To run a job to a cluster controlled by the Sun Grid Engine scheduler, a shell s
 #$ -N geo_metaz
 #$ -cwd
 #$ -q normal.q
-#$ -t 1-134
+#$ -t 1-500
 #$ -e /scr/k70/ilozada/qsub_scripts/repeats/tmp/error.$JOB_ID
 #$ -o /scr/k70/ilozada/qsub_scripts/repeats/tmp/salida.$JOB_ID
 #$ -v PATH=/homes/bierdepot/ilozada/programs2/lib64/R/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:$PATH
@@ -141,7 +141,7 @@ $SEED
 
 
 - **Parallel computing: example of job submission to a Slurm workload manager** \
-To run a job to a cluster controlled by the Slurm workload manager, a batch script has to be used. Here is an example to run the `hmmscan` program for 59 genomes (listed on the file: script_ARRAY_JOB.metazoa.new2020.pfams32.txt) on multiple CPUs for a long time: **slurm.hmmscan.metazoa.sbatch**
+To run a job to a cluster controlled by the Slurm workload manager, a batch script has to be used. Here is an example to run the `hmmscan` program for 500 genomes (listed on the file: script_ARRAY_JOB.metazoa.new2020.pfams32.txt) on multiple CPUs for a long time: **slurm.hmmscan.metazoa.sbatch**
 
 ```terminal
 #!/bin/bash
@@ -153,7 +153,7 @@ To run a job to a cluster controlled by the Slurm workload manager, a batch scri
 #SBATCH --job-name=pfamMetz
 #SBATCH --mem=4gb
 #SBATCH --time=2-00:00
-#SBATCH --array=1-59%59
+#SBATCH --array=1-500%500
 #SBATCH --ntasks=1
 #SBATCH --error=pfammetazoa_%j.stderr-%A_%a.log
 #SBATCH --output=pfammetazoa_%j.stdout-%A_%a.log
