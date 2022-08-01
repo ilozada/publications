@@ -112,7 +112,7 @@ $SEED
 
 
 - **Parallel computing: example of job submission to a Slurm workload manager** \
-To run a job to a cluster controlled by the Slurm workload manager, a batch script has to be used. Here is an example to run the `hmmscan` program for 59 genomes (listed on the file: script_ARRAY_JOB.metazoa.new2020.pfams32.txt) on multiple CPUs for a long time:
+To run a job to a cluster controlled by the Slurm workload manager, a batch script has to be used. Here is an example to run the `hmmscan` program for 59 genomes (listed on the file: script_ARRAY_JOB.metazoa.new2020.pfams32.txt) on multiple CPUs for a long time: **slurm.hmmscan.metazoa.sbatch**
 
 ```terminal
 #!/bin/bash
@@ -132,4 +132,17 @@ To run a job to a cluster controlled by the Slurm workload manager, a batch scri
 SEEDFILE=/scr/k70/ilozada/qsub_scripts/pfam/script_ARRAY_JOB.metazoa.new2020.pfams32.txt
 SEED=$(cat $SEEDFILE | head -n $SLURM_ARRAY_TASK_ID | tail -n 1)
 $SEED
+
+# Useful SLURM commands:
+#	- sbatch  : submit a job in slurm. Syntaxis:	sbatch mySLURM_script.sbatch [MAIN]
+# 	- squeue  : list jobs & list jobs for users:	squeue --user=ilozada        [MAIN]
+#	- scancel : cancel a job. Syntaxis:		        scancel your_jobID           [MAIN]
+#		        cancel multiple jobs:   		    scancel jobID1, jobID2, jobID3 ...
+#	- sstat   : shows job status. Syntaxis:		sstat --jobs=jobID
+#	- sacct   : shows past jobs.  Syntaxis:		sacct --jobs=jobID
+#	- scontrol: control jobs for suspend, hold or pulling information on jobs. 
+#	            Syntaxis:   scontrol [suspend,hold,release,resume,show] jobID
+#
+# ---------------------------------------------------------------------------------------------- 
+
 ```
