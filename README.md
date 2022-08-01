@@ -90,6 +90,24 @@ Table of Contents
 
 ## Useful in-house scripts (*updating files*)
 
+I decided to share the following scripts (in different programming languages) for those people working with large-scale comparative genomics, which usually involves handling more than 100 genome projects and using parallel computing.
+
+
+- **Downloading files with wget** \
+The tools `wget` or `curl` can be used to download files from a particular database by using the shell interface. Some command-line examples with `wget` are:
+
+```terminal
+# For one single file:
+$ wget --retr-symlinks -m --no-parent -T 30 ftp://ftp.ncbi.nih.gov/refseq/release/complete/single.file.txt
+
+# For several files within a directory:
+$ wget --retr-symlinks -m --no-parent -T 30 ftp://ftp.ncbi.nih.gov/refseq/release/complete/genomeX/
+
+# For several links using -i option and giving a text file containing file URLs. 
+$ wget -i download-file-list.txt
+```
+
+
 - **Parallel computing: example of job submission to a Sun Grid Engine scheduler** \
 To run a job to a cluster controlled by the Sun Grid Engine scheduler, a shell script has to be used. Here is an example to run the `GenometriCorr` package for 134 genomes (listed on the file: script_ARRAY_JOB.genometricorr.metazoa.txt) on multiple CPUs for a long time:
 
