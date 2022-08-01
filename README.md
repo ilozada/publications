@@ -23,12 +23,12 @@ Table of Contents
 
 
 **(b) Statistical descriptors of genome-wide features and other genome-based estimators for 461 eukaryotic species, as calculated with the `GenomeContent` program:** \
-(1) Description of the genowe-wide features (variables) included in the file "SMO_GenomeFeatures_descriptors_eukaryotes.xlsx" (text file). [description_variables_instudy.txt](https://github.com/ilozada/publications/files/9142262/description_variables_instudy.txt) \
+(1) Description of the genowe-wide features (variables) included in the file "SMO_GenomeFeatures_descriptors_eukaryotes.xlsx" (text file). [SMO_description_variables_instudy.txt](https://github.com/ilozada/publications/files/9230845/SMO_description_variables_instudy.txt) \
 (2) Dataset of statistical descriptors of genome-wide features for 461 eukaryotic genomes (excell file). \
 (3) Summary statistics of selected genome-wide features from protein-coding genes for selected lineages (excell file). [SMO_GenomeFeatures_by_TaxaDatasets.xlsx](https://github.com/ilozada/publications/files/9142748/SMO_GenomeFeatures_by_TaxaDatasets.xlsx) \
 (4) Coefficients of variation for genome-wide features across different taxa datasets (excell file).  \
-(5) Fraction of placeholders (Ns and Xs sequences) covering the total assembled genome (text file): [genome_nts-placeholders_composition.txt](https://github.com/ilozada/publications/files/9127990/genome_nts-placeholders_composition.txt) \
-(6) The excess/deficit of the intron length distributions modulo 3 estimated (as suggested by Roy and Penny, 2007: PMID:17617639) for more than the 461 gene annotations included in this study (text file): [intron_3n_quality_501sps.txt](https://github.com/ilozada/publications/files/9127855/intron_3n_quality_501sps.txt) \
+(5) Fraction of placeholders (Ns and Xs sequences) covering the total assembled genome (text file): [SMO_genome_nts-placeholders_composition.txt](https://github.com/ilozada/publications/files/9230851/SMO_genome_nts-placeholders_composition.txt) \
+(6) The excess/deficit of the intron length distributions modulo 3 estimated (as suggested by Roy and Penny, 2007: PMID:17617639) for more than the 461 gene annotations included in this study (text file): [SMO_intron_3n_quality_501sps.txt](https://github.com/ilozada/publications/files/9230853/SMO_intron_3n_quality_501sps.txt) \
 (7) Figures showing the results of (5) and (6) analyses (pdf file). [SMO_quality_genomes_annotations.pdf](https://github.com/ilozada/publications/files/9150301/SMO_quality_genomes_annotations.pdf) \
 (8) Permutation tests for the Jaccard index estimations to evaluate the repeat contribution to intron and exon sizes (excell file).
 
@@ -104,7 +104,7 @@ $ wget --retr-symlinks -m --no-parent -T 30 ftp://ftp.ncbi.nih.gov/refseq/releas
 # For several files within a directory:
 $ wget --retr-symlinks -m --no-parent -T 30 ftp://ftp.ncbi.nih.gov/refseq/release/complete/genomeX/
 
-# For several links using -i option and giving a text file containing file URLs. 
+# For several links by using -i option and giving a text file containing file URLs. 
 $ wget -i download-file-list.txt
 
 ```
