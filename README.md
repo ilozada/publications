@@ -46,7 +46,7 @@ Table of Contents
 (1) Estimates of phylogenetic inertia with different tree topologies at the broadest phylogenetic scale (461 species) (excell file). \
 (2) Regressions with the Ordinary Least-Squares (OLS) model at the broadest phylogenetic scale (461 species), with different genome size estimations (excell file). [SMO_OLS_regressions.xlsx](https://github.com/ilozada/publications/files/9238943/SMO_OLS_regressions.xlsx) \
 (3) Regressions with the Phylogenetic Generalized Least Squares (PGLS) model at the broadest phylogenetic scale (461 species), with different tree topologies and genome size estimations (excell file). [SMO_PGLS_regressions.xlsx](https://github.com/ilozada/publications/files/9238913/SMO_PGLS_regressions.xlsx) \
-(4) Regressions with the Phylogenetically Independent Contrasts (PICs) model at the broadest phylogenetic scale (461 species), with different tree topologies and genome size estimations (excell file). \
+(4) Regressions with the Phylogenetically Independent Contrasts (PICs) model at the broadest phylogenetic scale (461 species), with different tree topologies and genome size estimations (excell file). [SMO_PICS_regressions.xlsx](https://github.com/ilozada/publications/files/9252529/SMO_PICS_regressions.xlsx) \
 (5) Estimates of Log Bayes Factors with the PGLS and PIC models and different tree topologies at the broadest phylogenetic scale (461 species) (excell file). \
 (6) Regressions with the PGLS model at the local phylogenetic scale (31 different datasets) (text files): \
     --- Reference supertree topology: \
