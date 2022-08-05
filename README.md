@@ -75,7 +75,9 @@ The following supplementary material is based on the following two publications:
 
 (3) NCBI taxonomy-based tree topology (that is forced to be a fully resolved bifurcating phylogeny): \
 --- [ncbi-taxonomy_tree_fully-bifurcated.pdf (pdf file)](https://github.com/ilozada/publications/files/9127059/ncbi-taxonomy_tree_fully-bifurcated.pdf) \
+--- [ncbi-taxonomy_tree_fully-bifurcated_newick.txt (newick file)](https://github.com/ilozada/publications/files/9127061/ncbi-taxonomy_tree_fully-bifurcated_newick.txt) \
 --- [ncbi-taxonomy_tree_fully-bifurcated_nexus.txt (nexus file)](https://github.com/ilozada/publications/files/9127060/ncbi-taxonomy_tree_fully-bifurcated_nexus.txt)
+
 
 (4) NCBI taxonomy-based tree topology (that is allowed to incorporate hard and soft polytomies): \
 --- [ncbi-taxonomy_tree_polytomies.pdf (pdf file)](https://github.com/ilozada/publications/files/9127077/ncbi-taxonomy_tree_polytomies.pdf) \
