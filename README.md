@@ -16,10 +16,18 @@ Table of Contents
 
 The following supplementary material is based on the following two publications:
 
-- Lozada-Chávez I., Stadler,P.F., and Prohaska, S.J. (2018) [__Genome-wide features of introns are evolutionary decoupled among themselves and from genome size throughout Eukarya__](https://www.biorxiv.org/content/early/2018/03/18/283549). __re-submitted__. [doi: https://doi.org/10.1101/283549](https://www.biorxiv.org/content/early/2018/03/18/283549)
-
 - Paschoal A.R., Lozada-Chávez I., Domingues D.S., and Stadler P.F. (2018) [__ceRNAs in plants: computational approaches and associated challenges for target mimic research__](https://doi.org/10.1093/bib/bbx058). __Briefings in Bioinformatics__, 19(6):1273-1289, [doi: 10.1093/bib/bbx058](https://doi.org/10.1093/bib/bbx058)
 
+**(a) Data and additional results from the `ceRNA motif pipeline`:** \
+(1) Summary of the genome datasets and of the 40 non-redundant miRNA:lincRNAs binding sequences analyzed with our ceRNA motif pipeline (excell file). [SMO_knownTMs_Genomes_Datasets.xlsx](https://github.com/ilozada/publications/files/9155391/SMO_knownTMs_Genomes_Datasets.xlsx) \
+(2) ceRNA literature-directed research and predicted target mimics (TMs) motifs that were eliminated with the `ceRNA motif pipeline` (pdf file). [SMO_TMs-research_FigureS1-S4.pdf](https://github.com/ilozada/publications/files/9150871/SMO_TMs-research_FigureS1-S4.pdf) \
+(3) Summary results of the predicted TMs motifs from the `ceRNA motif pipeline` (excell file). [SMO_predictedTMmotifs_ceRNApipeline.xlsx](https://github.com/ilozada/publications/files/9155432/SMO_predictedTMmotifs_ceRNApipeline.xlsx) \
+(4) Raw results from the mapping of TM motifs across transcriptomic data (compressed text files): \
+    --- Results from the psRNATarget v1.0 program: [SuppData2_psRNATarget_TMmotifs.zip](https://github.com/ilozada/publications/files/9150977/SuppData2_psRNATarget_TMmotifs.zip) \
+    --- Results from the TAPIR v1.2 program: [SuppData3_TAPIR_TMmotifs.zip](https://github.com/ilozada/publications/files/9151034/SuppData3_TAPIR_TMmotifs.zip)
+
+
+- Lozada-Chávez I., Stadler,P.F., and Prohaska, S.J. (2018) [__Genome-wide features of introns are evolutionary decoupled among themselves and from genome size throughout Eukarya__](https://www.biorxiv.org/content/early/2018/03/18/283549). __re-submitted__. [doi: https://doi.org/10.1101/283549](https://www.biorxiv.org/content/early/2018/03/18/283549)
 
 **(a) Datasets compilation for the 461 eukaryotic species used in this study:** \
 (1) List of all genome projects used in this study (excell file). [Download here]() \
@@ -37,16 +45,7 @@ The following supplementary material is based on the following two publications:
 (6) Permutation tests for the Jaccard index estimations to evaluate the repeat contribution to intron and exon sizes (excell file).
 
 
-**(c) Data and additional results from the `ceRNA motif pipeline`:** \
-(1) Summary of the genome datasets and of the 40 non-redundant miRNA:lincRNAs binding sequences analyzed with our ceRNA motif pipeline (excell file). [SMO_knownTMs_Genomes_Datasets.xlsx](https://github.com/ilozada/publications/files/9155391/SMO_knownTMs_Genomes_Datasets.xlsx) \
-(2) ceRNA literature-directed research and predicted target mimics (TMs) motifs that were eliminated with the `ceRNA motif pipeline` (pdf file). [SMO_TMs-research_FigureS1-S4.pdf](https://github.com/ilozada/publications/files/9150871/SMO_TMs-research_FigureS1-S4.pdf) \
-(3) Summary results of the predicted TMs motifs from the `ceRNA motif pipeline` (excell file). [SMO_predictedTMmotifs_ceRNApipeline.xlsx](https://github.com/ilozada/publications/files/9155432/SMO_predictedTMmotifs_ceRNApipeline.xlsx) \
-(4) Raw results from the mapping of TM motifs across transcriptomic data (compressed text files): \
-    --- Results from the psRNATarget v1.0 program: [SuppData2_psRNATarget_TMmotifs.zip](https://github.com/ilozada/publications/files/9150977/SuppData2_psRNATarget_TMmotifs.zip) \
-    --- Results from the TAPIR v1.2 program: [SuppData3_TAPIR_TMmotifs.zip](https://github.com/ilozada/publications/files/9151034/SuppData3_TAPIR_TMmotifs.zip)
-
-
-**(d) Phylogenetically controlled linear regressions:** \
+**(c) Phylogenetically controlled linear regressions:** \
 (1) Estimates of phylogenetic inertia with different tree topologies at the broadest phylogenetic scale (461 species) (excell file). \
 (2) Regressions with the Ordinary Least-Squares (OLS) model at the broadest phylogenetic scale (461 species), with different genome size estimations (excell file). [SMO_OLS_regressions.xlsx](https://github.com/ilozada/publications/files/9238943/SMO_OLS_regressions.xlsx) \
 (3) Regressions with the Phylogenetic Generalized Least Squares (PGLS) model at the broadest phylogenetic scale (461 species), with different tree topologies and genome size estimations (excell file). [SMO_PGLS_regressions.xlsx](https://github.com/ilozada/publications/files/9238913/SMO_PGLS_regressions.xlsx) \
@@ -58,7 +57,7 @@ The following supplementary material is based on the following two publications:
     --- NCBI taxonomy-based tree topology (with hard and soft polytomies): \
     --- Tree topology based on protein FPAM-domain content:
 
-**(e) Principal Component Analyses (PCA) analyses for 7 intron-based features and 15 genome-based features, and multicellular complexity:** \
+**(d) Principal Component Analyses (PCA) analyses for 7 intron-based features and 15 genome-based features, and multicellular complexity:** \
 (1) Cronbach's test for 7 intron-based features and 15 genome-based features used to calculate the PCA analyses (excell file). [SMO_CronbrachTest_PCAs.xlsx](https://github.com/ilozada/publications/files/9176642/SMO_CronbrachTest_PCAs.xlsx) \
 (2) Phylogenetic PCAs with phylogenetically independent contrasts for: (i) 7 intron-based features and 15 genome-based features, (ii) different tree topologies, and (iii) genome size estimations (excell file). [SMO_PhyloPCAs.xlsx](https://github.com/ilozada/publications/files/9173969/SMO_PhyloPCAs.xlsx) \
 (3) Comparative PCAs for 15 genome-based features and different genome size estimations (excell file). [SMO_comparativePCAs.xlsx](https://github.com/ilozada/publications/files/9174913/SMO_comparativePCAs.xlsx)
