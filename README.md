@@ -71,25 +71,19 @@ The following supplementary material is based on the following two publications:
 
 (2) Reference tree topology (a supertree created by synthesizing phylogeny and taxonomic classification): \
 --- [reference_eukaryote_phylogeny.pdf (pdf file)](https://github.com/ilozada/publications/files/9126957/reference_eukaryote_phylogeny.pdf) \
---- [reference_eukaryote_phylogeny.nex (nexus file)](https://github.com/ilozada/publications/files/9126964/reference_eukaryote_phylogeny_nexus.txt) \
---- [reference_eukaryote_phylogeny.nwk (newick file)](https://github.com/ilozada/publications/files/9127051/reference_eukaryote_phylogeny_newick.txt)
-
+--- [reference_eukaryote_phylogeny.nex (nexus file)](https://github.com/ilozada/publications/files/9126964/reference_eukaryote_phylogeny_nexus.txt)
 
 (3) NCBI taxonomy-based tree topology (that is forced to be a fully resolved bifurcating phylogeny): \
 --- [ncbi-taxonomy_tree_fully-bifurcated.pdf (pdf file)](https://github.com/ilozada/publications/files/9127059/ncbi-taxonomy_tree_fully-bifurcated.pdf) \
---- [ncbi-taxonomy_tree_fully-bifurcated_nexus.txt (nexus file)](https://github.com/ilozada/publications/files/9127060/ncbi-taxonomy_tree_fully-bifurcated_nexus.txt) \
---- [ncbi-taxonomy_tree_fully-bifurcated_newick.txt (newick file)](https://github.com/ilozada/publications/files/9127061/ncbi-taxonomy_tree_fully-bifurcated_newick.txt)
+--- [ncbi-taxonomy_tree_fully-bifurcated_nexus.txt (nexus file)](https://github.com/ilozada/publications/files/9127060/ncbi-taxonomy_tree_fully-bifurcated_nexus.txt)
 
 (4) NCBI taxonomy-based tree topology (that is allowed to incorporate hard and soft polytomies): \
 --- [ncbi-taxonomy_tree_polytomies.pdf (pdf file)](https://github.com/ilozada/publications/files/9127077/ncbi-taxonomy_tree_polytomies.pdf) \
---- [ncbi-taxonomy_tree_polytomies_nexus.txt (nexus file)](https://github.com/ilozada/publications/files/9127078/ncbi-taxonomy_tree_polytomies_nexus.txt) \
---- [ncbi-taxonomy_tree_polytomies_newick.txt (newick file)](https://github.com/ilozada/publications/files/9127079/ncbi-taxonomy_tree_polytomies_newick.txt)
+--- [ncbi-taxonomy_tree_polytomies_nexus.txt (nexus file)](https://github.com/ilozada/publications/files/9127078/ncbi-taxonomy_tree_polytomies_nexus.txt)
 
 (5) Tree topology based on (PFAM) protein domain content (and corrected for protein-content biases derived from differences in genome size and lifestyles) \
  --- [protein-domain_content_phylogeny.pdf (pdf file)](https://github.com/ilozada/publications/files/9127735/protein-domain_content_phylogeny.pdf) \
  --- [protein-domain_content_phylogeny_nexus.txt (nexus file)](https://github.com/ilozada/publications/files/9127757/protein-domain_content_phylogeny_nexus.txt) \
- --- [protein-domain_content_phylogeny_newick.txt (newick file)](https://github.com/ilozada/publications/files/9127759/protein-domain_content_phylogeny_newick.txt)
-
 
 
 ## Useful in-house scripts (*updating files*)
