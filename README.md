@@ -57,13 +57,14 @@ The following supplementary material is based on the following two publications:
     --- NCBI taxonomy-based tree topology (with hard and soft polytomies): \
     --- Tree topology based on protein FPAM-domain content:
 
+
 **(d) Principal Component Analyses (PCA) analyses for 7 intron-based features and 15 genome-based features, and multicellular complexity:** \
 (1) Cronbach's test for 7 intron-based features and 15 genome-based features used to calculate the PCA analyses (excell file). [SMO_CronbrachTest_PCAs.xlsx](https://github.com/ilozada/publications/files/9176642/SMO_CronbrachTest_PCAs.xlsx) \
 (2) Phylogenetic PCAs with phylogenetically independent contrasts for: (i) 7 intron-based features and 15 genome-based features, (ii) different tree topologies, and (iii) genome size estimations (excell file). [SMO_PhyloPCAs.xlsx](https://github.com/ilozada/publications/files/9173969/SMO_PhyloPCAs.xlsx) \
 (3) Comparative PCAs for 15 genome-based features and different genome size estimations (excell file). [SMO_comparativePCAs.xlsx](https://github.com/ilozada/publications/files/9174913/SMO_comparativePCAs.xlsx)
 
 
-**(f) Tree topologies for the 461 eukaryotic species used in this study:**
+**(e) Tree topologies for the 461 eukaryotic species used in this study:**
 
 (1) Results of the "dissimilarity metrics" used to calculate differences among the four alternative tree topologies of the 461 eukaryotes analyzed in this study. [SMO_ComparativeMetricsTrees.xlsx](https://github.com/ilozada/publications/files/9189488/SMO_ComparativeMetricsTrees.xlsx)
 
