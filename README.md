@@ -16,9 +16,9 @@ Table of Contents
 
 The following supplementary material is based on the following two publications:
 
-- Lozada-Chávez I., Stadler,P.F., and Prohaska, S.J. (2018) [__Genome-wide features of introns are evolutionary decoupled among themselves and from genome size throughout Eukarya__](https://www.biorxiv.org/content/early/2018/03/18/283549). __re-submitted__. doi: https://doi.org/10.1101/283549
+- Lozada-Chávez I., Stadler,P.F., and Prohaska, S.J. (2018) [__Genome-wide features of introns are evolutionary decoupled among themselves and from genome size throughout Eukarya__](https://www.biorxiv.org/content/early/2018/03/18/283549). __re-submitted__. [doi: https://doi.org/10.1101/283549](https://www.biorxiv.org/content/early/2018/03/18/283549)
 
-- Paschoal A.R., Lozada-Chávez I., Domingues D.S., and Stadler P.F. (2018) [__ceRNAs in plants: computational approaches and associated challenges for target mimic research__](https://www.biorxiv.org/content/early/2018/03/18/283549). __Briefings in Bioinformatics__, 19(6):1273-1289, doi: 10.1093/bib/bbx058
+- Paschoal A.R., Lozada-Chávez I., Domingues D.S., and Stadler P.F. (2018) [__ceRNAs in plants: computational approaches and associated challenges for target mimic research__](https://doi.org/10.1093/bib/bbx058). __Briefings in Bioinformatics__, 19(6):1273-1289, [doi: 10.1093/bib/bbx058](https://doi.org/10.1093/bib/bbx058)
 
 
 **(a) Datasets compilation for the 461 eukaryotic species used in this study:** \
