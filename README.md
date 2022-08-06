@@ -46,7 +46,7 @@ The following supplementary material is based on the following two publications:
 (6) Permutation tests for the Jaccard index estimations to evaluate the repeat contribution to intron and exon sizes (excell file). \
 (7) Dataset of statistical descriptors of genome-wide features for 461 eukaryotic genomes (pdf protected files): \
     --- Protein-coding genes and repeats: [SMO_Genes-Repeats_FEATURES_protected.pdf](https://github.com/ilozada/publications/files/9275714/SMO_Genes-Repeats_FEATURES_protected.pdf) \
-    --- Introns from protein-coding genes: \
+    --- Introns from protein-coding genes: [SMO_Introns_FEATURES_protected.pdf](https://github.com/ilozada/publications/files/9275834/SMO_Introns_FEATURES_protected.pdf) \
     --- Exons from protein-coding genes: \
     --- Genome contents based on estimated genome sizes: \
     --- Genome contents based on assambled genome sizes: 
