@@ -48,7 +48,7 @@ The following supplementary material is based on the following two publications:
     --- Protein-coding genes and repeats: [SMO_Genes-Repeats_FEATURES_protected.pdf](https://github.com/ilozada/publications/files/9275714/SMO_Genes-Repeats_FEATURES_protected.pdf) \
     --- Introns from protein-coding genes: [SMO_Introns_FEATURES_protected.pdf](https://github.com/ilozada/publications/files/9275834/SMO_Introns_FEATURES_protected.pdf) \
     --- Exons from protein-coding genes: [SMO_Exons_FEATURES_protected.pdf](https://github.com/ilozada/publications/files/9275880/SMO_Exons_FEATURES_protected.pdf) \
-    --- Genome contents based on estimated genome sizes: \
+    --- Genome contents based on estimated genome sizes: [SMO_GenomeContent_ESTIMATED_FEATURES_protected.pdf](https://github.com/ilozada/publications/files/9275912/SMO_GenomeContent_ESTIMATED_FEATURES_protected.pdf) \
     --- Genome contents based on assambled genome sizes: 
 
 
