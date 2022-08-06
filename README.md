@@ -38,19 +38,18 @@ The following supplementary material is based on the following two publications:
 
 
 **(b) Statistical descriptors of genome-wide features and other genome-based estimators for 461 eukaryotic species, as calculated with the `GenomeContent` program:** \
-(1) Description of the genowe-wide features (variables) included in the files "SMO_GenomeFeatures_descriptors_*_FEATURES_protected.pdf" (text file) [SMO_description_variables_instudy.txt](https://github.com/ilozada/publications/files/9230845/SMO_description_variables_instudy.txt) \
-(2) Dataset of statistical descriptors of genome-wide features for 461 eukaryotic genomes (pdf protected files):
+(1) Description of the genowe-wide features (variables) included in the files "SMO_GenomeFeatures_descriptors_X_FEATURES_protected.pdf" (text file) [SMO_description_variables_instudy.txt](https://github.com/ilozada/publications/files/9230845/SMO_description_variables_instudy.txt) \
+(2) Summary statistics of selected genome-wide features from protein-coding genes for selected lineages (excell file). [SMO_GenomeFeatures_by_TaxaDatasets.xlsx](https://github.com/ilozada/publications/files/9142748/SMO_GenomeFeatures_by_TaxaDatasets.xlsx) \
+(3) Fraction of placeholders (Ns and Xs sequences) covering the total assembled genome (text file): [SMO_genome_nts-placeholders_composition.txt](https://github.com/ilozada/publications/files/9230851/SMO_genome_nts-placeholders_composition.txt) \
+(4) The excess/deficit of the intron length distributions modulo 3 estimated (as suggested by Roy and Penny, 2007: PMID:17617639) for more than the 461 gene annotations included in this study (text file): [SMO_intron_3n_quality_501sps.txt](https://github.com/ilozada/publications/files/9230853/SMO_intron_3n_quality_501sps.txt) \
+(5) Figures showing the results of (5) and (6) analyses (pdf file). [SMO_quality_genomes_annotations.pdf](https://github.com/ilozada/publications/files/9150301/SMO_quality_genomes_annotations.pdf) \
+(6) Permutation tests for the Jaccard index estimations to evaluate the repeat contribution to intron and exon sizes (excell file).
+(7) Dataset of statistical descriptors of genome-wide features for 461 eukaryotic genomes (pdf protected files):
     --- Protein-coding genes and repeats: [SMO_Genes-Repeats_FEATURES_protected.pdf](https://github.com/ilozada/publications/files/9275714/SMO_Genes-Repeats_FEATURES_protected.pdf) \
     --- Introns from protein-coding genes: \
     --- Exons from protein-coding genes: \
     --- Genome contents based on estimated genome sizes: \
     --- Genome contents based on assambled genome sizes: 
-
-(3) Summary statistics of selected genome-wide features from protein-coding genes for selected lineages (excell file). [SMO_GenomeFeatures_by_TaxaDatasets.xlsx](https://github.com/ilozada/publications/files/9142748/SMO_GenomeFeatures_by_TaxaDatasets.xlsx) \
-(4) Fraction of placeholders (Ns and Xs sequences) covering the total assembled genome (text file): [SMO_genome_nts-placeholders_composition.txt](https://github.com/ilozada/publications/files/9230851/SMO_genome_nts-placeholders_composition.txt) \
-(5) The excess/deficit of the intron length distributions modulo 3 estimated (as suggested by Roy and Penny, 2007: PMID:17617639) for more than the 461 gene annotations included in this study (text file): [SMO_intron_3n_quality_501sps.txt](https://github.com/ilozada/publications/files/9230853/SMO_intron_3n_quality_501sps.txt) \
-(6) Figures showing the results of (5) and (6) analyses (pdf file). [SMO_quality_genomes_annotations.pdf](https://github.com/ilozada/publications/files/9150301/SMO_quality_genomes_annotations.pdf) \
-(7) Permutation tests for the Jaccard index estimations to evaluate the repeat contribution to intron and exon sizes (excell file).
 
 
 **(c) Phylogenetically controlled linear regressions:** \
