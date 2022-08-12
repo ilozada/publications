@@ -32,7 +32,7 @@ The following supplementary material is based on the following two publications:
 **(a) Datasets compilation for the 461 eukaryotic species used in this study:** \
 (1) List of all genome projects used in this study (excell file). [Download here]() \
 (2) Bibliography for the molecular phylogenies used to manually curate the “reference supertree of eukaryotes” (pdf file, fixed broken link). [SMO_Bibliography_ReferenceSupertree_protected.pdf](https://github.com/ilozada/publications/files/9310100/SMO_Bibliography_ReferenceSupertree_protected.pdf) \
-(2) References for cellular definitions and phylogenetic relationships (excell file). [Download here]() \
+(2) References for multicellular classification of 461 species (pdf file). [Download here]() \
 (3) Overview of the sequence_features (based on the Sequence Ontology project: https://github.com/The-Sequence-Ontology/SO-Ontologies) from the gene annotation files (GTF*/GFF*) of 461 eukaryotic genome projects, as calculated by `GenomeContent` (excell file). [Download here]() \
 (4) Benchmarking of `GenomeContent` and `AGAT` programs with four eukaryotic genomes (excell file). [SMO_Benchmark_GenomeContent.xlsx](https://github.com/ilozada/publications/files/9229572/SMO_Benchmark_GenomeContent.xlsx)
 
