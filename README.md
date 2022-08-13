@@ -35,7 +35,9 @@ The following supplementary material is based on the following two publications:
     --- Part two (Holomycota and "Protista"): [SMO_Dataset_GenomesEukaryotes_protectedPART2.pdf](https://github.com/ilozada/publications/files/9315814/SMO_Dataset_GenomesEukaryotes_protectedPART2.pdf) \
 (2) Bibliography for the molecular phylogenies used to manually curate the “reference supertree of eukaryotes” (pdf file, fixed broken link). [SMO_Bibliography_ReferenceSupertree_protected.pdf](https://github.com/ilozada/publications/files/9315530/SMO_Bibliography_ReferenceSupertree_protected.pdf) \
 (2) References for multicellular classification of 461 species (pdf file). [Download here]() \
-(3) Overview of the sequence_features (based on the Sequence Ontology project: https://github.com/The-Sequence-Ontology/SO-Ontologies) from the gene annotation files (GTF*/GFF*) of 461 eukaryotic genome projects, as calculated by `GenomeContent` (excell file). [Download here]() \
+(3) Overview of the sequence_features (based on the Sequence Ontology project: https://github.com/The-Sequence-Ontology/SO-Ontologies) from the gene annotation files (GTF*/GFF*) of 461 eukaryotic genome projects, as calculated by `GenomeContent` (two pdf files, fixed broken link): \
+    --- Part one: [SMO_SequenceFeatures_GFF-GTF_GenomeContent_protectedPART1.pdf](https://github.com/ilozada/publications/files/9331646/SMO_SequenceFeatures_GFF-GTF_GenomeContent_protectedPART1.pdf) \
+    --- Part two: [SMO_SequenceFeatures_GFF-GTF_GenomeContent_protectedPART2.pdf](https://github.com/ilozada/publications/files/9331699/SMO_SequenceFeatures_GFF-GTF_GenomeContent_protectedPART2.pdf) \
 (4) Benchmarking of `GenomeContent` and `AGAT` programs with four eukaryotic genomes (excell file). [SMO_Benchmark_GenomeContent.xlsx](https://github.com/ilozada/publications/files/9229572/SMO_Benchmark_GenomeContent.xlsx)
 
 
