@@ -50,6 +50,7 @@ The following supplementary material is based on the following two publications:
 (6) Permutation tests for the Jaccard index estimations to evaluate the repeat contribution to intron and exon sizes (pdf protected files): \
     --- Viridiplantae: [SMO_Genometricorr_RepeatsExons-Introns_PLANTAE_protected.pdf](https://github.com/ilozada/publications/files/9349239/SMO_Genometricorr_RepeatsExons-Introns_PLANTAE_protected.pdf) \
     --- Fungi: [SMO_Genometricorr_RepeatsExons-Introns_FUNGI_protected.pdf](https://github.com/ilozada/publications/files/9349243/SMO_Genometricorr_RepeatsExons-Introns_FUNGI_protected.pdf) \
+    --- "Protists": [SMO_Genometricorr_RepeatsExons-Introns_PROTISTS_protected.pdf](https://github.com/ilozada/publications/files/9352182/SMO_Genometricorr_RepeatsExons-Introns_PROTISTS_protected.pdf) \
 (7) Dataset of statistical descriptors of genome-wide features for 461 eukaryotic genomes (pdf protected files): \
     --- Protein-coding genes and repeats: [SMO_Genes-Repeats_FEATURES_protected.pdf](https://github.com/ilozada/publications/files/9275714/SMO_Genes-Repeats_FEATURES_protected.pdf) \
     --- Introns from protein-coding genes: [SMO_Introns_FEATURES_protected.pdf](https://github.com/ilozada/publications/files/9275834/SMO_Introns_FEATURES_protected.pdf) \
