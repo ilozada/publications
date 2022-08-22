@@ -61,7 +61,7 @@ The following supplementary material is based on the following two publications:
 
 
 **(c) Phylogenetically controlled linear regressions:** \
-(1) Estimates of phylogenetic inertia with different tree topologies at the broadest phylogenetic scale (461 species) (excell file). \
+(1) Estimates of phylogenetic signal (Pagel's lambda) with different tree topologies at the broadest phylogenetic scale (461 species) (excell file). [SMO_Pagel-lambda_estimations.xlsx](https://github.com/ilozada/publications/files/9390500/SMO_Pagel-lambda_estimations.xlsx) \
 (2) Regressions with the Ordinary Least-Squares (OLS) model at the broadest phylogenetic scale (461 species), with different genome size estimations (excell file). [SMO_OLS_regressions.xlsx](https://github.com/ilozada/publications/files/9238943/SMO_OLS_regressions.xlsx) \
 (3) Regressions with the Phylogenetic Generalized Least Squares (PGLS) model at the broadest phylogenetic scale (461 species), with different tree topologies and genome size estimations (excell file). [SMO_PGLS_regressions.xlsx](https://github.com/ilozada/publications/files/9238913/SMO_PGLS_regressions.xlsx) \
 (4) Regressions with the Phylogenetically Independent Contrasts (PICs) model at the broadest phylogenetic scale (461 species), with different tree topologies and genome size estimations (excell file). [SMO_PICS_regressions.xlsx](https://github.com/ilozada/publications/files/9252529/SMO_PICS_regressions.xlsx) \
