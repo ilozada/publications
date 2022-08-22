@@ -19,9 +19,9 @@ The following supplementary material is based on the following two publications:
 - Paschoal A.R., Lozada-Chávez I., Domingues D.S., and Stadler P.F. (2018) [__ceRNAs in plants: computational approaches and associated challenges for target mimic research__](https://doi.org/10.1093/bib/bbx058). __Briefings in Bioinformatics__, 19(6):1273-1289, [doi: 10.1093/bib/bbx058](https://doi.org/10.1093/bib/bbx058)
 
 **(a) Data and additional results from the `ceRNA motif pipeline`:** \
-(1) Summary of the genome datasets and of the 40 non-redundant miRNA:lincRNAs binding sequences analyzed with our ceRNA motif pipeline (excell file). [SMO_knownTMs_Genomes_Datasets.xlsx](https://github.com/ilozada/publications/files/9155391/SMO_knownTMs_Genomes_Datasets.xlsx) \
-(2) ceRNA literature-directed research and predicted target mimics (TMs) motifs that were eliminated with the `ceRNA motif pipeline` (pdf file). [SMO_TMs-research_FigureS1-S4.pdf](https://github.com/ilozada/publications/files/9150871/SMO_TMs-research_FigureS1-S4.pdf) \
-(3) Summary results of the predicted TMs motifs from the `ceRNA motif pipeline` (excell file). [SMO_predictedTMmotifs_ceRNApipeline.xlsx](https://github.com/ilozada/publications/files/9155432/SMO_predictedTMmotifs_ceRNApipeline.xlsx) \
+(1) Summary of the genome datasets and of the 40 non-redundant miRNA:lincRNAs binding sequences analyzed with our ceRNA motif pipeline (excell file):  [SMO_knownTMs_Genomes_Datasets.xlsx](https://github.com/ilozada/publications/files/9155391/SMO_knownTMs_Genomes_Datasets.xlsx) \
+(2) ceRNA literature-directed research and predicted target mimics (TMs) motifs that were eliminated with the `ceRNA motif pipeline` (pdf file): [SMO_TMs-research_FigureS1-S4.pdf](https://github.com/ilozada/publications/files/9150871/SMO_TMs-research_FigureS1-S4.pdf) \
+(3) Summary results of the predicted TMs motifs from the `ceRNA motif pipeline` (excell file): [SMO_predictedTMmotifs_ceRNApipeline.xlsx](https://github.com/ilozada/publications/files/9155432/SMO_predictedTMmotifs_ceRNApipeline.xlsx) \
 (4) Raw results from the mapping of TM motifs across transcriptomic data (compressed text files): \
     --- Results from the psRNATarget v1.0 program: [SuppData2_psRNATarget_TMmotifs.zip](https://github.com/ilozada/publications/files/9150977/SuppData2_psRNATarget_TMmotifs.zip) \
     --- Results from the TAPIR v1.2 program: [SuppData3_TAPIR_TMmotifs.zip](https://github.com/ilozada/publications/files/9151034/SuppData3_TAPIR_TMmotifs.zip)
@@ -33,20 +33,20 @@ The following supplementary material is based on the following two publications:
 (1) List of all genome projects used in this study (two pdf files, fixed broken link): \
     --- Part one (Holozoa and Archaeplastida): [SMO_Dataset_GenomesEukaryotes_protectedPART1.pdf](https://github.com/ilozada/publications/files/9315802/SMO_Dataset_GenomesEukaryotes_protectedPART1.pdf) \
     --- Part two (Holomycota and "Protista"): [SMO_Dataset_GenomesEukaryotes_protectedPART2.pdf](https://github.com/ilozada/publications/files/9315814/SMO_Dataset_GenomesEukaryotes_protectedPART2.pdf) \
-(2) Bibliography for the molecular phylogenies used to manually curate the “reference supertree of eukaryotes” (pdf file, fixed broken link). [SMO_Bibliography_ReferenceSupertree_protected.pdf](https://github.com/ilozada/publications/files/9315530/SMO_Bibliography_ReferenceSupertree_protected.pdf) \
-(2) References for multicellular classification of 461 species (pdf file). [Download here]() \
+(2) Bibliography for the molecular phylogenies used to manually curate the “reference supertree of eukaryotes” (pdf file, fixed broken link):  [SMO_Bibliography_ReferenceSupertree_protected.pdf](https://github.com/ilozada/publications/files/9315530/SMO_Bibliography_ReferenceSupertree_protected.pdf) \
+(2) References for multicellular classification of 461 species (pdf file): [Download here]() \
 (3) Overview of the sequence_features (based on the Sequence Ontology project: https://github.com/The-Sequence-Ontology/SO-Ontologies) from the gene annotation files (GTF*/GFF*) of 461 eukaryotic genome projects, as calculated by `GenomeContent` (two pdf files, fixed broken link): \
     --- Part one: [SMO_SequenceFeatures_GFF-GTF_GenomeContent_protectedPART1.pdf](https://github.com/ilozada/publications/files/9331646/SMO_SequenceFeatures_GFF-GTF_GenomeContent_protectedPART1.pdf) \
     --- Part two: [SMO_SequenceFeatures_GFF-GTF_GenomeContent_protectedPART2.pdf](https://github.com/ilozada/publications/files/9331699/SMO_SequenceFeatures_GFF-GTF_GenomeContent_protectedPART2.pdf) \
-(4) Benchmarking of `GenomeContent` and `AGAT` programs with four eukaryotic genomes (excell file). [SMO_Benchmark_GenomeContent.xlsx](https://github.com/ilozada/publications/files/9229572/SMO_Benchmark_GenomeContent.xlsx)
+(4) Benchmarking of `GenomeContent` and `AGAT` programs with four eukaryotic genomes (excell file): [SMO_Benchmark_GenomeContent.xlsx](https://github.com/ilozada/publications/files/9229572/SMO_Benchmark_GenomeContent.xlsx)
 
 
 **(b) Statistical descriptors of genome-wide features and other genome-based estimators for 461 eukaryotic species, as calculated with the `GenomeContent` program:** \
-(1) Description of the genowe-wide features (variables) included in the files "SMO_GenomeFeatures_descriptors_X_FEATURES_protected.pdf" (text file) [SMO_description_variables_instudy.txt](https://github.com/ilozada/publications/files/9230845/SMO_description_variables_instudy.txt) \
-(2) Summary statistics of selected genome-wide features from protein-coding genes for selected lineages (excell file). [SMO_GenomeFeatures_by_TaxaDatasets.xlsx](https://github.com/ilozada/publications/files/9142748/SMO_GenomeFeatures_by_TaxaDatasets.xlsx) \
+(1) Description of the genowe-wide features (variables) included in the files "SMO_GenomeFeatures_descriptors_X_FEATURES_protected.pdf" (text file):  [SMO_description_variables_instudy.txt](https://github.com/ilozada/publications/files/9230845/SMO_description_variables_instudy.txt) \
+(2) Summary statistics of selected genome-wide features from protein-coding genes for selected lineages (excell file):  [SMO_GenomeFeatures_by_TaxaDatasets.xlsx](https://github.com/ilozada/publications/files/9142748/SMO_GenomeFeatures_by_TaxaDatasets.xlsx) \
 (3) Fraction of placeholders (Ns and Xs sequences) covering the total assembled genome (text file): [SMO_genome_nts-placeholders_composition.txt](https://github.com/ilozada/publications/files/9230851/SMO_genome_nts-placeholders_composition.txt) \
 (4) The excess/deficit of the intron length distributions modulo 3 estimated (as suggested by Roy and Penny, 2007: PMID:17617639) for more than the 461 gene annotations included in this study (text file): [SMO_intron_3n_quality_501sps.txt](https://github.com/ilozada/publications/files/9230853/SMO_intron_3n_quality_501sps.txt) \
-(5) Figures showing the results of (5) and (6) analyses (pdf file). [SMO_quality_genomes_annotations.pdf](https://github.com/ilozada/publications/files/9150301/SMO_quality_genomes_annotations.pdf) \
+(5) Figures showing the results of (5) and (6) analyses (pdf file): [SMO_quality_genomes_annotations.pdf](https://github.com/ilozada/publications/files/9150301/SMO_quality_genomes_annotations.pdf) \
 (6) Permutation tests for the Jaccard index estimations to evaluate the repeat contribution to intron and exon sizes (pdf protected files): \
     --- Viridiplantae: [SMO_Genometricorr_RepeatsExons-Introns_PLANTAE_protected.pdf](https://github.com/ilozada/publications/files/9349239/SMO_Genometricorr_RepeatsExons-Introns_PLANTAE_protected.pdf) \
     --- Fungi: [SMO_Genometricorr_RepeatsExons-Introns_FUNGI_protected.pdf](https://github.com/ilozada/publications/files/9349243/SMO_Genometricorr_RepeatsExons-Introns_FUNGI_protected.pdf) \
@@ -61,23 +61,23 @@ The following supplementary material is based on the following two publications:
 
 
 **(c) Phylogenetically controlled linear regressions:** \
-(1) Estimates of phylogenetic signal (Pagel's lambda) with different tree topologies at the broadest phylogenetic scale (461 species) (excell file). [SMO_Pagel-lambda_estimations.xlsx](https://github.com/ilozada/publications/files/9390500/SMO_Pagel-lambda_estimations.xlsx) \
-(2) Regressions with the Ordinary Least-Squares (OLS) model at the broadest phylogenetic scale (461 species), with different genome size estimations (excell file). [SMO_OLS_regressions.xlsx](https://github.com/ilozada/publications/files/9238943/SMO_OLS_regressions.xlsx) \
-(3) Regressions with the Phylogenetic Generalized Least Squares (PGLS) model at the broadest phylogenetic scale (461 species), with different tree topologies and genome size estimations (excell file). [SMO_PGLS_regressions.xlsx](https://github.com/ilozada/publications/files/9238913/SMO_PGLS_regressions.xlsx) \
-(4) Regressions with the Phylogenetically Independent Contrasts (PICs) model at the broadest phylogenetic scale (461 species), with different tree topologies and genome size estimations (excell file). [SMO_PICS_regressions.xlsx](https://github.com/ilozada/publications/files/9252529/SMO_PICS_regressions.xlsx) \
+(1) Estimates of phylogenetic signal (Pagel's lambda) with different tree topologies at the broadest phylogenetic scale (461 species) (excell file):  [SMO_Pagel-lambda_estimations.xlsx](https://github.com/ilozada/publications/files/9390500/SMO_Pagel-lambda_estimations.xlsx) \
+(2) Regressions with the Ordinary Least-Squares (OLS) model at the broadest phylogenetic scale (461 species), with different genome size estimations (excell file): [SMO_OLS_regressions.xlsx](https://github.com/ilozada/publications/files/9238943/SMO_OLS_regressions.xlsx) \
+(3) Regressions with the Phylogenetic Generalized Least Squares (PGLS) model at the broadest phylogenetic scale (461 species), with different tree topologies and genome size estimations (excell file): [SMO_PGLS_regressions.xlsx](https://github.com/ilozada/publications/files/9238913/SMO_PGLS_regressions.xlsx) \
+(4) Regressions with the Phylogenetically Independent Contrasts (PICs) model at the broadest phylogenetic scale (461 species), with different tree topologies and genome size estimations (excell file): [SMO_PICS_regressions.xlsx](https://github.com/ilozada/publications/files/9252529/SMO_PICS_regressions.xlsx) \
 (5) Estimates of Log Bayes Factors with the PGLS and PIC models and different tree topologies at the broadest phylogenetic scale (461 species) (excell file). \
 (6) Regressions with the PGLS model at the local phylogenetic scale (31 different datasets), with different tree topologies (excell file). \
 
 
 **(d) Principal Component Analyses (PCA) analyses for 7 intron-based features and 15 genome-based features, and multicellular complexity:** \
-(1) Cronbach's test for 7 intron-based features and 15 genome-based features used to calculate the PCA analyses (excell file). [SMO_CronbrachTest_PCAs.xlsx](https://github.com/ilozada/publications/files/9176642/SMO_CronbrachTest_PCAs.xlsx) \
+(1) Cronbach's test for 7 intron-based features and 15 genome-based features used to calculate the PCA analyses (excell file):  [SMO_CronbrachTest_PCAs.xlsx](https://github.com/ilozada/publications/files/9176642/SMO_CronbrachTest_PCAs.xlsx) \
 (2) Phylogenetic PCAs with phylogenetically independent contrasts for: (i) 7 intron-based features and 15 genome-based features, (ii) different tree topologies, and (iii) genome size estimations (excell file). [SMO_PhyloPCAs.xlsx](https://github.com/ilozada/publications/files/9173969/SMO_PhyloPCAs.xlsx) \
-(3) Comparative PCAs for 15 genome-based features and different genome size estimations (excell file). [SMO_comparativePCAs.xlsx](https://github.com/ilozada/publications/files/9174913/SMO_comparativePCAs.xlsx)
+(3) Comparative PCAs for 15 genome-based features and different genome size estimations (excell file): [SMO_comparativePCAs.xlsx](https://github.com/ilozada/publications/files/9174913/SMO_comparativePCAs.xlsx)
 
 
 **(e) Tree topologies for the 461 eukaryotic species used in this study:**
 
-(1) Results of the "dissimilarity metrics" used to calculate differences among the four alternative tree topologies of the 461 eukaryotes analyzed in this study. [SMO_ComparativeMetricsTrees.xlsx](https://github.com/ilozada/publications/files/9189488/SMO_ComparativeMetricsTrees.xlsx)
+(1) Results of the "dissimilarity metrics" used to calculate differences among the four alternative tree topologies of the 461 eukaryotes analyzed in this study: [SMO_ComparativeMetricsTrees.xlsx](https://github.com/ilozada/publications/files/9189488/SMO_ComparativeMetricsTrees.xlsx)
 
 
 (2) Reference tree topology (a supertree created by synthesizing phylogeny and taxonomic classification): \
@@ -97,7 +97,7 @@ The following supplementary material is based on the following two publications:
 --- [ncbi-taxonomy_tree_polytomies_nexus.txt (nexus file)](https://github.com/ilozada/publications/files/9127078/ncbi-taxonomy_tree_polytomies_nexus.txt)
 
 
-(5) Tree topology based on (PFAM) protein domain content (and corrected for protein-content biases derived from differences in genome size and lifestyles) \
+(5) Tree topology based on (PFAM) protein domain content (and corrected for protein-content biases derived from differences in genome size and lifestyles): \
  --- [protein-domain_content_phylogeny.pdf (pdf file)](https://github.com/ilozada/publications/files/9127735/protein-domain_content_phylogeny.pdf) \
  --- [protein-domain_content_phylogeny_newick.txt (newick file)](https://github.com/ilozada/publications/files/9127759/protein-domain_content_phylogeny_newick.txt) \
  --- [protein-domain_content_phylogeny_nexus.txt (nexus file)](https://github.com/ilozada/publications/files/9127757/protein-domain_content_phylogeny_nexus.txt)
