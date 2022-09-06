@@ -100,9 +100,11 @@ The following supplementary material is based on the following two publications:
 (5) Tree topology based on (PFAM) protein domain content (and corrected for protein-content biases derived from differences in genome size and lifestyles): \
  --- [protein-domain_content_phylogeny.pdf (pdf file)](https://github.com/ilozada/publications/files/9127735/protein-domain_content_phylogeny.pdf) \
  --- [protein-domain_content_phylogeny_newick.txt (newick file)](https://github.com/ilozada/publications/files/9127759/protein-domain_content_phylogeny_newick.txt) \
- --- [protein-domain_content_phylogeny_nexus.txt (nexus file)](https://github.com/ilozada/publications/files/9127757/protein-domain_content_phylogeny_nexus.txt)
+ --- [protein-domain_content_phylogeny_nexus.txt (nexus file)](https://github.com/ilozada/publications/files/9127757/protein-domain_content_phylogeny_nexus.txt) \
+ --- Matrix of presence/absence of PFAM protein domains estimated for 461 eukaryotic species: [matrix.pfams.content.species.txt](https://github.com/ilozada/publications/files/9500043/matrix.pfams.content.species.txt) \
+ --- Matrix of pairwise distances across 461 eukaryotic species, based on their protein PFAM-domain contents: [matrix.pfams.distances.species.txt](https://github.com/ilozada/publications/files/9499596/matrix.pfams.distances.species.txt)
 
-
+ 
 ## Useful in-house scripts (*updating files*)
 
 I decided to share the following scripts (in different programming languages) for those people working with large-scale comparative genomics, which usually involves handling more than 100 genome projects and using parallel computing.
