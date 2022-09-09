@@ -66,7 +66,7 @@ The following supplementary material is based on the following two publications:
 (3) Regressions with the Phylogenetic Generalized Least Squares (PGLS) model at the broadest phylogenetic scale (461 species), with different tree topologies and genome size estimations (excell file): [SMO_PGLS_regressions.xlsx](https://github.com/ilozada/publications/files/9238913/SMO_PGLS_regressions.xlsx) \
 (4) Regressions with the Phylogenetically Independent Contrasts (PICs) model at the broadest phylogenetic scale (461 species), with different tree topologies and genome size estimations (excell file): [SMO_PICS_regressions.xlsx](https://github.com/ilozada/publications/files/9252529/SMO_PICS_regressions.xlsx) \
 (5) Estimates of pairwise correlations calculated in a Bayesian framework (Log Bayes Factors) with the PGLS and PIC models and different tree topologies at the broadest phylogenetic scale (461 species) (excell file, fixed broken link): [SMO_logBayes_regressions.xlsx](https://github.com/ilozada/publications/files/9460845/SMO_logBayes_regressions.xlsx) \
-(6) Regressions with the PGLS model at the local phylogenetic scale (31 different datasets), with different tree topologies (excell file). \
+(6) Regressions with the PGLS model at the broadest phylogenetic scale (6 different datasets), with different tree topologies (excell file): [SMO_PGLSregressions_random-study_datasets.xlsx](https://github.com/ilozada/publications/files/9535559/SMO_PGLSregressions_random-study_datasets.xlsx)
 
 
 **(d) Principal Component Analyses (PCA) analyses for 7 intron-based features and 15 genome-based features, and multicellular complexity:** \
