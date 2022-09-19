@@ -12,7 +12,7 @@ Table of Contents
 3. [Supplementary Material by publication (*in preparation*)](#pubsm)
 
 
-## Supplementary Material for PhD thesis (*updating files*)
+## Supplementary Material for PhD thesis
 
 The following supplementary material is based on the following two publications:
 
