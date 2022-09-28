@@ -83,7 +83,8 @@ The following supplementary material is based on the following two publications:
 
 (2) Reference tree topology (a supertree created by synthesizing phylogeny and taxonomic classification): \
 --- [reference_eukaryote_phylogeny.pdf (pdf file)](https://github.com/ilozada/publications/files/9126957/reference_eukaryote_phylogeny.pdf) \
---- [reference_eukaryote_phylogeny.nwk (newick file)](https://github.com/ilozada/publications/files/9127051/reference_eukaryote_phylogeny_newick.txt)
+--- [reference_eukaryote_phylogeny_newick.txt (newick file)](https://github.com/ilozada/publications/files/9127051/reference_eukaryote_phylogeny_newick.txt) \
+--- [reference_eukaryote_phylogeny_nexus.txt (nexus file)](https://github.com/ilozada/publications/files/9666435/reference_eukaryote_phylogeny_nexus.txt)
 
 
 (3) NCBI taxonomy-based tree topology (that is forced to be a fully resolved bifurcating phylogeny): \
