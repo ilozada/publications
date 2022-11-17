@@ -33,9 +33,9 @@ The following supplementary material is based on the following two publications:
 (1) List of all genome projects used in this study (two pdf files, fixed broken link): \
     --- Part one (Holozoa and Archaeplastida): [SMO_Dataset_GenomesEukaryotes_protectedPART1.pdf](https://github.com/ilozada/publications/files/9315802/SMO_Dataset_GenomesEukaryotes_protectedPART1.pdf) \
     --- Part two (Holomycota and "Protista"): [SMO_Dataset_GenomesEukaryotes_protectedPART2.pdf](https://github.com/ilozada/publications/files/9315814/SMO_Dataset_GenomesEukaryotes_protectedPART2.pdf) \
-(2) Bibliography for the molecular phylogenies used to manually curate the “reference supertree of eukaryotes” (pdf file, fixed broken link):  [SMO_Bibliography_ReferenceSupertree_protected.pdf](https://github.com/ilozada/publications/files/9315530/SMO_Bibliography_ReferenceSupertree_protected.pdf) \
+(2) Bibliography for the molecular phylogenies used to manually curate the “reference supertree of eukaryotes” (pdf file):  [SMO_Bibliography_ReferenceSupertree_protected.pdf](https://github.com/ilozada/publications/files/9315530/SMO_Bibliography_ReferenceSupertree_protected.pdf) \
 (2) References for multicellular classification of 461 species (pdf file): [Download here]() \
-(3) Overview of the sequence_features (based on the Sequence Ontology project: https://github.com/The-Sequence-Ontology/SO-Ontologies) from the gene annotation files (GTF*/GFF*) of 461 eukaryotic genome projects, as calculated by `GenomeContent` (two pdf files, fixed broken link): \
+(3) Overview of the sequence_features (based on the Sequence Ontology project: https://github.com/The-Sequence-Ontology/SO-Ontologies) from the gene annotation files (GTF*/GFF*) of 461 eukaryotic genome projects, as calculated by `GenomeContent` (two pdf files): \
     --- Part one: [SMO_SequenceFeatures_GFF-GTF_GenomeContent_protectedPART1.pdf](https://github.com/ilozada/publications/files/9331646/SMO_SequenceFeatures_GFF-GTF_GenomeContent_protectedPART1.pdf) \
     --- Part two: [SMO_SequenceFeatures_GFF-GTF_GenomeContent_protectedPART2.pdf](https://github.com/ilozada/publications/files/9331699/SMO_SequenceFeatures_GFF-GTF_GenomeContent_protectedPART2.pdf) \
 (4) Benchmarking of `GenomeContent` and `AGAT` programs with four eukaryotic genomes (excell file): [SMO_Benchmark_GenomeContent.xlsx](https://github.com/ilozada/publications/files/9229572/SMO_Benchmark_GenomeContent.xlsx)
@@ -65,7 +65,7 @@ The following supplementary material is based on the following two publications:
 (2) Regressions with the Ordinary Least-Squares (OLS) model at the broadest phylogenetic scale (461 species), with different genome size estimations (excell file): [SMO_OLS_regressions.xlsx](https://github.com/ilozada/publications/files/9238943/SMO_OLS_regressions.xlsx) \
 (3) Regressions with the Phylogenetic Generalized Least Squares (PGLS) model at the broadest phylogenetic scale (461 species), with different tree topologies and genome size estimations (excell file): [SMO_PGLS_regressions.xlsx](https://github.com/ilozada/publications/files/9238913/SMO_PGLS_regressions.xlsx) \
 (4) Regressions with the Phylogenetically Independent Contrasts (PICs) model at the broadest phylogenetic scale (461 species), with different tree topologies and genome size estimations (excell file): [SMO_PICS_regressions.xlsx](https://github.com/ilozada/publications/files/9252529/SMO_PICS_regressions.xlsx) \
-(5) Estimates of pairwise correlations calculated in a Bayesian framework (Log Bayes Factors) with the PGLS and PIC models and different tree topologies at the broadest phylogenetic scale (461 species) (excell file, fixed broken link): [SMO_logBayes_regressions.xlsx](https://github.com/ilozada/publications/files/9460845/SMO_logBayes_regressions.xlsx) \
+(5) Estimates of pairwise correlations calculated in a Bayesian framework (Log Bayes Factors) with the PGLS and PIC models and different tree topologies at the broadest phylogenetic scale (461 species) (excell file): [SMO_logBayes_regressions.xlsx](https://github.com/ilozada/publications/files/9460845/SMO_logBayes_regressions.xlsx) \
 (6) Regressions with the PGLS model at the broadest phylogenetic scale (6 different datasets), with different tree topologies (excell file): [SMO_PGLSregressions_random-study_datasets.xlsx](https://github.com/ilozada/publications/files/9666300/SMO_PGLSregressions_random-study_datasets.xlsx) \
 (7) Regressions with the PGLS model at the local phylogenetic scale for METAZOA (13 clades), with different tree topologies (excell file): [SMO_PGLS_LOCAL-Metazoa_regressions.xlsx](https://github.com/ilozada/publications/files/9643961/SMO_PGLS_LOCAL-Metazoa_regressions.xlsx)
 (8) Regressions with the PGLS model at the local phylogenetic scale for STRAMENOPILES, ALVEOLATA, FUNGI (5 clades), and VIRIDIPLANTAE (4 clades), with different tree topologies (excell file): [Download here]()
@@ -108,9 +108,9 @@ The following supplementary material is based on the following two publications:
  --- Matrix of pairwise distances across 461 eukaryotic species, based on their protein PFAM-domain contents: [matrix.pfams.distances.species.txt](https://github.com/ilozada/publications/files/9499596/matrix.pfams.distances.species.txt)
 
  
-## Useful in-house scripts (*updating files*)
+## Useful in-house scripts (*still updating files and information*)
 
-I decided to share the following scripts (in different programming languages) for those people working with large-scale comparative genomics, which usually involves handling more than 100 genome projects and using parallel computing.
+I'm happy to share the following scripts (in different programming languages) with those people working with large-scale comparative genomics, which usually involves handling more than 100 genome projects and using parallel computing.
 
 
 - **Downloading files with wget** \
