@@ -42,7 +42,7 @@ The following supplementary material is based on the following two publications:
 
 
 **(b) Statistical descriptors of genome-wide features and other genome-based estimators for 461 eukaryotic species, as calculated with the `GenomeContent` program:** \
-(1) Description of the genowe-wide features (variables) included in the files "SMO_GenomeFeatures_descriptors_X_FEATURES_protected.pdf" (text file):  [SMO_description_variables_instudy.txt](https://github.com/ilozada/publications/files/9230845/SMO_description_variables_instudy.txt) \
+(1) Description of the genowe-wide features (variables) included in the files named as: "SMO_GenomeFeatures_descriptors_X_FEATURES_protected.pdf" (text file):  [SMO_description_variables_instudy.txt](https://github.com/ilozada/publications/files/9230845/SMO_description_variables_instudy.txt) \
 (2) Summary statistics of selected genome-wide features from protein-coding genes for selected lineages (excell file):  [SMO_GenomeFeatures_by_TaxaDatasets.xlsx](https://github.com/ilozada/publications/files/9142748/SMO_GenomeFeatures_by_TaxaDatasets.xlsx) \
 (3) Fraction of placeholders (Ns and Xs sequences) covering the total assembled genome (text file): [SMO_genome_nts-placeholders_composition.txt](https://github.com/ilozada/publications/files/9230851/SMO_genome_nts-placeholders_composition.txt) \
 (4) The excess/deficit of the intron length distributions modulo 3 estimated (as suggested by Roy and Penny, 2007: PMID:17617639) for more than the 461 gene annotations included in this study (text file): [SMO_intron_3n_quality_501sps.txt](https://github.com/ilozada/publications/files/9230853/SMO_intron_3n_quality_501sps.txt) \
@@ -67,7 +67,8 @@ The following supplementary material is based on the following two publications:
 (4) Regressions with the Phylogenetically Independent Contrasts (PICs) model at the broadest phylogenetic scale (461 species), with different tree topologies and genome size estimations (excell file): [SMO_PICS_regressions.xlsx](https://github.com/ilozada/publications/files/9252529/SMO_PICS_regressions.xlsx) \
 (5) Estimates of pairwise correlations calculated in a Bayesian framework (Log Bayes Factors) with the PGLS and PIC models and different tree topologies at the broadest phylogenetic scale (461 species) (excell file, fixed broken link): [SMO_logBayes_regressions.xlsx](https://github.com/ilozada/publications/files/9460845/SMO_logBayes_regressions.xlsx) \
 (6) Regressions with the PGLS model at the broadest phylogenetic scale (6 different datasets), with different tree topologies (excell file): [SMO_PGLSregressions_random-study_datasets.xlsx](https://github.com/ilozada/publications/files/9666300/SMO_PGLSregressions_random-study_datasets.xlsx) \
-(7) Regressions with the PGLS model at the local phylogenetic scale for METAZOA (13 different clades), with different tree topologies (excell file): [SMO_PGLS_LOCAL-Metazoa_regressions.xlsx](https://github.com/ilozada/publications/files/9643961/SMO_PGLS_LOCAL-Metazoa_regressions.xlsx)
+(7) Regressions with the PGLS model at the local phylogenetic scale for METAZOA (13 clades), with different tree topologies (excell file): [SMO_PGLS_LOCAL-Metazoa_regressions.xlsx](https://github.com/ilozada/publications/files/9643961/SMO_PGLS_LOCAL-Metazoa_regressions.xlsx)
+(8) Regressions with the PGLS model at the local phylogenetic scale for STRAMENOPILES, ALVEOLATA, FUNGI (5 clades), and VIRIDIPLANTAE (4 clades), with different tree topologies (excell file): [Download here]()
 
 
 **(d) Principal Component Analyses (PCA) analyses for 7 intron-based features and 15 genome-based features, and multicellular complexity:** \
