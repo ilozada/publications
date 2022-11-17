@@ -30,7 +30,7 @@ The following supplementary material is based on the following two publications:
 - Lozada-Chávez I., Stadler,P.F., and Prohaska, S.J. (2018) [__Genome-wide features of introns are evolutionary decoupled among themselves and from genome size throughout Eukarya__](https://www.biorxiv.org/content/early/2018/03/18/283549). __re-submitted (2022)__. [doi: https://doi.org/10.1101/283549](https://www.biorxiv.org/content/early/2018/03/18/283549)
 
 **(a) Datasets compilation for the 461 eukaryotic species used in this study:** \
-(1) List of all genome projects used in this study (two pdf files, fixed broken link): \
+(1) List of all genome projects used in this study (two pdf files): \
     --- Part one (Holozoa and Archaeplastida): [SMO_Dataset_GenomesEukaryotes_protectedPART1.pdf](https://github.com/ilozada/publications/files/9315802/SMO_Dataset_GenomesEukaryotes_protectedPART1.pdf) \
     --- Part two (Holomycota and "Protista"): [SMO_Dataset_GenomesEukaryotes_protectedPART2.pdf](https://github.com/ilozada/publications/files/9315814/SMO_Dataset_GenomesEukaryotes_protectedPART2.pdf) \
 (2) Bibliography for the molecular phylogenies used to manually curate the “reference supertree of eukaryotes” (pdf file):  [SMO_Bibliography_ReferenceSupertree_protected.pdf](https://github.com/ilozada/publications/files/9315530/SMO_Bibliography_ReferenceSupertree_protected.pdf) \
